@@ -7,7 +7,7 @@
 
 💻&ensp; Throuout my career I've done iOS Development using Swift, SceneKit and Unity. I've built automation frameworks for mobile and web projects using XCTest, XCUITest, and Selenium. 
 
-🕸&ensp; All of my projects can be found at
+🕸&ensp; All of my projects are available at 
 
 🏫&ensp; I'm currently studying for the Unity Expert Programmer Certfication.
 
