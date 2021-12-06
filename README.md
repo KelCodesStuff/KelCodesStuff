@@ -3,12 +3,19 @@
 
 <!-- Actual text -->
 
-👨🏽‍💻 &ensp;I've done iOS Development using Swift, SceneKit and Unity.
+📱&ensp; I've done iOS Development using Swift, SceneKit and Unity.
 
-📈 &ensp; I'm currently working on Fusion Engine, a game engine written in Swift and Metal.
+📈&ensp; I'm currently working on Fusion Engine, a game engine written in Swift and Metal.
 
-🏫 &ensp; I'm currently studying for the Unity Expert Programmer Certfication.
+👨🏽‍💻&ensp; All of my projects can be found at
 
+🏫&ensp; I'm currently studying for the Unity Expert Programmer Certfication.
+
+📗&ensp; I enjoy reading books on Physics, Software Development, and the history of the gaming industry.
+
+⚡️&ensp; Fun fact, I'm a Dallas Cowboys fan.
+
+<br>
 
 ## 🥞 Tech Stack
  
@@ -22,15 +29,18 @@ I work with many different technologies and languages. My favorite ones are Swif
   &ensp;<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 </p>
 
+<br>
+
+## 🖥  Most used Languages 
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
+
+![](https://komarev.com/ghpvc/?username=kelcodesstuff)
+
+<br>
+<br>
 
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/kelcodesstuff/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 &ensp;<a href="https://twitter.com/Kel_Codes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-
-
-## 🖥 Most used Languages 
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
-
-![](https://komarev.com/ghpvc/?username=kelcodesstuff)
