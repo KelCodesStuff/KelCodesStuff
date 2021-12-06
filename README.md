@@ -1,5 +1,8 @@
 <h1 align="left">Welcome 👋🏽,  &ensp;I'm Kel</h1>
 
+<a href="https://www.linkedin.com/in/kelcodesstuff/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+&ensp;<a href="https://twitter.com/Kel_Codes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+
 
 <!-- Actual text -->
 
@@ -32,16 +35,14 @@ I work with many different technologies and languages. My favorite ones are Swif
 
 <br>
 
-## 🖥&ensp;Most used Languages 
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
+---
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&theme=merko" alt="kelcodesstuff" />
+
+[<img alt="Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&show_icons=true&hide_border=false&theme=merko">](https://github-readme-stats.vercel.app/api?username=codlipa&show_icons=true&hide_border=false&theme=merko)
+
+[<img alt="Streak Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelcodesstuff&hide_border=false&theme=merko">](https://github-readme-streak-stats.herokuapp.com/?user=codlipa&hide_border=false&theme=merko)
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=kelcodesstuff)
-
-<br>
-<br>
-
-## Connect with me
-
-<a href="https://www.linkedin.com/in/kelcodesstuff/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-&ensp;<a href="https://twitter.com/Kel_Codes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
