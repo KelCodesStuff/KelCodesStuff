@@ -17,7 +17,7 @@
 
 <br>
 
-## 🥞 Tech Stack
+## 🥞&ensp;Tech Stack
  
 I work with many different technologies and languages. My favorite ones are Swift, Firebase, Unity, and Unreal Engine.
  
@@ -32,7 +32,7 @@ I work with many different technologies and languages. My favorite ones are Swif
 
 <br>
 
-## 🖥  Most used Languages 
+## 🖥&ensp;Most used Languages 
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
 
