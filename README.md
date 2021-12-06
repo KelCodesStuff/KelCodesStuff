@@ -42,6 +42,4 @@ I work with many different technologies and languages. My favorite ones are Swif
 [<img alt="Streak Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelcodesstuff&hide_border=false&theme=merko">](https://github-readme-streak-stats.herokuapp.com/?user=codlipa&hide_border=false&theme=merko)
 
 
-
-
 ![](https://komarev.com/ghpvc/?username=kelcodesstuff)
