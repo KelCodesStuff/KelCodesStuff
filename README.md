@@ -16,7 +16,7 @@
 
 📗&ensp; I enjoy reading books on Physics, Software Development, and the history of the gaming industry.
 
-⚡️&ensp; Fun fact, I'm a Dallas Cowboys fan.
+🪙&ensp; Fun fact, I invest in crypto. 
 
 <br>
 
