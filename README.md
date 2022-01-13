@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋🏽,  &ensp;I'm Kel</h1>
+<h1 align="left">Hello 👋🏽 &ensp;I'm Kel</h1>
 
 <a href="https://www.linkedin.com/in/kelcodesstuff/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 &ensp;<a href="https://twitter.com/Kel_Codes"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
