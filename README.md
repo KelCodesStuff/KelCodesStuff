@@ -6,7 +6,7 @@
 
 <!-- Actual text -->
 
-👨🏽‍💻&ensp; I'm currently working as a Senior Software Engineer in Test at Expel. The personal project I'm working on is Fusion Engine, a game engine written in Swift and Metal.
+👨🏽‍💻&ensp; I'm currently working as a Senior Software Engineer in Test at Expel. During my free time I make games and I'm in the process of making Fusion Engine, a game engine written in [Swift](https://developer.apple.com/swift/) and [Metal](https://developer.apple.com/metal/).
 
 💻&ensp; Throuout my career I've done iOS Development using Swift, SceneKit and Unity. I've built automation frameworks for mobile and web projects using XCTest, XCUITest, and Selenium. 
 
