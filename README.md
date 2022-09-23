@@ -16,7 +16,7 @@
 
 📗&ensp; I enjoy reading books on Physics, Software Development, and the history of the gaming industry.
 
-🪙&ensp; Fun fact, I invest in crypto. 
+🪙&ensp; Fun fact, I love playing RPGs and Fantasy Football. 
 
 <br>
 
