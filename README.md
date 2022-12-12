@@ -6,7 +6,7 @@
 
 <!-- Actual text -->
 
-👨🏽‍💻&ensp; I'm currently working as a Senior Software Engineer in Test at Expel. During my free time I make games on iOS and contribute to open source iOS projects.
+👨🏽‍💻&ensp; I'm an iOS Engineer and Game. During my free time I make games on iOS and contribute to open source iOS projects.
 
 💻&ensp; Throuout my career I've done iOS Development using Swift, SceneKit and Unity. I've built automation frameworks for mobile and web projects using XCTest, XCUITest, and Selenium. 
 
@@ -28,7 +28,6 @@ I work with many different technologies and languages. My favorite ones are Swif
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   &ensp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     &ensp;<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  &ensp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   &ensp;<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 </p>
 
