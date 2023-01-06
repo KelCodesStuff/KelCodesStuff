@@ -6,7 +6,7 @@
 
 <!-- Actual text -->
 
-👨🏽‍💻&ensp; I'm an iOS Engineer and Game. During my free time I make games on iOS and contribute to open source iOS projects.
+👨🏽‍💻&ensp; I'm an iOS Engineer and Game. During my free time I make iOS games and contribute to open source iOS projects.
 
 💻&ensp; Throuout my career I've done iOS Development using Swift, SceneKit and Unity. I've built automation frameworks for mobile and web projects using XCTest, XCUITest, and Selenium. 
 
