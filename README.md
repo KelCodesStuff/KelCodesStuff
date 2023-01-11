@@ -26,7 +26,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kelcodesstuff)
 <p>
-<a href="https://twitter.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://instagram.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://linkedin.com/in/kelcodes" target="blank"><img align="left" height="40" width="40"  src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
+<a href="https://twitter.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
+<a href="https://instagram.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+<a href="https://linkedin.com/in/kelcodes" target="blank"><img align="left" height="40" width="40"  src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> </a>
 </p>
