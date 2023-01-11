@@ -11,8 +11,9 @@
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 </p>
 
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
-
+</p>
 
 
 
