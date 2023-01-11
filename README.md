@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
-
+<h2> 👨🏽‍💻 I work on iOS apps, game programming, and test automation.</h3>
 <h3> 👨🏽‍💻 I work on iOS apps, game programming, and test automation.</h3>
 
 ##
