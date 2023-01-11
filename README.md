@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
 
-<h3> 💻 I do Full stack web Development and build projects.</h3>
+<h3> 💻 I work on iOS apps, game programming, and test automation.</h3>
 
 ##
  
