@@ -13,7 +13,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
 
-<p>
+
+
+
 ![](https://komarev.com/ghpvc/?username=kelcodesstuff)
 <p>
 <a href="https://twitter.com/isequaltokel" target="blank"><img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
