@@ -7,7 +7,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &ensp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &ensp;
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> &ensp;
-<a href="https://bitrise.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" alt="bitrise" width="40" height="40"/> </a>
+<a href="https://bitrise.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" alt="bitrise" width="40" height="40"/> </a>
 </p>
 
 <p>
