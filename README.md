@@ -1,7 +1,6 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
-<h3> 👨🏽‍💻 I work on iOS apps, game programming, and test automation.</h3>
+
 <h4> 👨🏽‍💻 I work on iOS apps, game programming, and test automation.</h4>
-##
  
 <p align="left"> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> &ensp;
