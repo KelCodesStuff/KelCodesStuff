@@ -4,8 +4,6 @@
 
 ## :pancakes:&ensp;Tech Stack
  
-I work with many different technologies and languages. My favorite ones are Swift, Firebase, Unity, and Unreal Engine.
- 
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   &ensp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
