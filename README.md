@@ -16,7 +16,6 @@
 ![](https://komarev.com/ghpvc/?username=kelcodesstuff)
 
 <p>
-<p>
 <a href="https://twitter.com/isequaltokel" target="blank"><img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
  
  <a href="https://instagram.com/isequaltokel" target="blank"><img align="center" height="40" width="40"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
