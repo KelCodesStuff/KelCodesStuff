@@ -11,23 +11,14 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="kelcodesstuff" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelcodesstuff&exclude_repo=django_project,Python-For-Data-Science&theme=radical" alt="kelcodesstuff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kelcodesstuff&count_private=true&theme=radical" alt="kelcodesstuff"/> 
+</p>
+
+<p align="center"> 
+<a href="https://twitter.com/isequaltokel" target="blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
+<a href="https://instagram.com/isequaltokel" target="blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+<a href="https://linkedin.com/in/kelcodes" target="blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> </a>
 </p>
 
 
-&ensp;
-&ensp;
-&ensp;
-&ensp;
-&ensp;
-&ensp;
-&ensp;
-##
-
-
-![](https://komarev.com/ghpvc/?username=kelcodesstuff)
-<p>
-<a href="https://twitter.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
-<a href="https://instagram.com/isequaltokel" target="blank"><img align="left" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
-<a href="https://linkedin.com/in/kelcodes" target="blank"><img align="left" height="40" width="40"  src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/> </a>
-</p>
