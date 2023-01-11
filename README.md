@@ -2,7 +2,7 @@
 
 <h3> 💻 I do Full stack web Development and build projects.</h3>
 
-## :pancakes:&ensp;Tech Stack
+##
  
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
