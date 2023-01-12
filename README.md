@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/kelcodes" target="blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/> </a> &ensp;
 <a href="https://twitter.com/isequaltokel" target="blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40"/> </a> &ensp;
 <a href="https://twitch.com/in/kelcodes" target="blank"> <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" width="40"/> </a> &ensp;
-<a href="https://instagram.com/isequaltokel" target="blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"/> </a>
- </p>
+</p>
 
 
