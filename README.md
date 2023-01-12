@@ -7,6 +7,7 @@
 <p align="left"> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/> </a> &ensp;
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/> </a> &ensp;
+<a href="https://firebase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> </a> &ensp;
 <a href="https://cucumber.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40"/> </a> &ensp;
 <a href="https://bitrise.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" width="40"/> </a>
 </p>
