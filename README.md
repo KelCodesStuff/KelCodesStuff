@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
 
-👨🏽‍💻 I'm an SDET with a background in iOS development and game development. I've created apps using SceneKit, ARKit, and Unity. I've also worked at multiple companies creating automation solutions for mobile, web, and API projects.
+👨🏽‍💻 I'm an iOS and game developer. I've created apps and games using SwiftUI, SceneKit, Metal, and Unity. 
 
 ## <h3 align="left">Tech</h3>
 
