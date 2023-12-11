@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
 
-👨🏽‍💻 I'm an iOS and game developer. I've created apps and games using SwiftUI, SceneKit, Metal, and Unity. 
+👨🏽‍💻 I'm an iOS Engineer and game developer. I've created apps and games using SwiftUI, SceneKit, Metal, and Unity. 
 
 ## <h3 align="left">Tech</h3>
 
