@@ -1,14 +1,16 @@
 <h1 align="left">Hello 👋🏽 , I'm Kel</h1>
 
-👨🏽‍💻 I'm an iOS Engineer and game developer. I've created apps and games using SwiftUI, SceneKit, Metal, and Unity. 
+👨🏽‍💻 I'm an iOS Engineer with a knack for building immersive apps and games. My toolbox includes SwiftUI for sleek UIs, SceneKit & ARKit for engaging 3D experiences, Metal for high-performance graphics, and Unity for versatile game development. 
+Browse my projects to explore the innovative ways I merge technology and creativity! 
 
 ## <h3 align="left">Tech</h3>
 
 <p align="left"> 
-<a href="https://developer.apple.com/swift/" > <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/> </a> &ensp;
-<a href="https://unity.com/" > <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/> </a> &ensp;
-<a href="https://firebase.com/" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> </a> &ensp;
-<a href="https://bitrise.io" > <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" width="40"/> </a>
+<a href="https://developer.apple.com/swift/" > <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/> </a> &ensp;
+<a href="https://unity.com/" > <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> </a> &ensp;
+<a href="https://firebase.com/" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> </a> &ensp;
+<a href="https://circleci.com" > <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"/> </a>
+<a href="https://circleci.com" > <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg"/> </a>
 </p>
 
 ## <h3 align="left">Stats</h3>
