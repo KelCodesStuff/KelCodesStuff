@@ -14,6 +14,11 @@ Browse my projects to explore the innovative ways I merge technology and creativ
   <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/100/circleci.png"/> </a>
 </p>
 
+## <h3 align="left">Projects</h3>
+[Authenticator 2FA+](https://testflight.apple.com/join/PDUIq4bp)
+
+[Neon Slots+](https://testflight.apple.com/join/JgMpvNQP)
+
 ## <h3 align="left">Stats</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelCodesStuff&theme=gotham)
