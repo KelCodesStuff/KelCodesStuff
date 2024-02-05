@@ -15,9 +15,12 @@ Browse my projects to explore the innovative ways I merge technology and creativ
 </p>
 
 ## <h3 align="left">TestFlight</h3>
-[Authenticator 2FA+](https://testflight.apple.com/join/PDUIq4bp)
 
-[Neon Slots+](https://testflight.apple.com/join/JgMpvNQP)
+Authenticator 2FA+ 
+[![TestFlight](https://img.shields.io/badge/Join%20The%20TestFlight-blue)](https://testflight.apple.com/join/PDUIq4bp)
+
+Neon Slots+ 
+[![TestFlight](https://img.shields.io/badge/Join%20The%20TestFlight-blue)](https://testflight.apple.com/join/JgMpvNQP)
 
 ## <h3 align="left">Stats</h3>
   
