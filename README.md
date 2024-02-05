@@ -14,7 +14,7 @@ Browse my projects to explore the innovative ways I merge technology and creativ
   <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/100/circleci.png"/> </a>
 </p>
 
-## <h3 align="left">TestFlight</h3>
+## <h3 align="left">Projects</h3>
 
 Authenticator 2FA+ 
 [![TestFlight](https://img.shields.io/badge/Join%20The%20TestFlight-blue)](https://testflight.apple.com/join/PDUIq4bp)
