@@ -5,12 +5,13 @@ Browse my projects to explore the innovative ways I merge technology and creativ
 
 ## <h3 align="left">Tech</h3>
 
-<p align="left"> 
-<a href="https://developer.apple.com/swift/" > <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/> </a> &ensp;
-<a href="https://unity.com/" > <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> </a> &ensp;
-<a href="https://firebase.com/" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> </a> &ensp;
-<a href="https://circleci.com" > <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"/> </a>
-<a href="https://circleci.com" > <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg"/> </a>
+<p align="left">
+  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/100/000000/xcode.png"/> </a> &ensp;
+  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/100/000000/swift.png"/> </a> &ensp;
+  <a href="https://unity.com/" > <img align="center" src="https://img.icons8.com/color/100/000000/unity.png"/> </a> &ensp;
+  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/100/000000/c-sharp-logo"/> </a> &ensp;
+  <a href="https://firebase.com/" > <img align="center" src="https://img.icons8.com/color/100/000000/firebase.png"/> </a> &ensp;
+  <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/100/000000/circleci.png"/> </a> &ensp;
 </p>
 
 ## <h3 align="left">Stats</h3>
@@ -20,9 +21,9 @@ Browse my projects to explore the innovative ways I merge technology and creativ
 ## <h3 align="left">Social</h3>
 
 <p align="left"> 
-<a href="https://linkedin.com/in/kelcodes" > <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/> </a> &ensp;
-<a href="https://twitter.com/isequaltokel" > <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"/> </a> &ensp;
-<a href="https://twitch.com/in/kelcodes" > <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" width="40"/> </a> &ensp;
+  <a href="https://linkedin.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/100/000000/linkedin.png"/> </a> &ensp;
+  <a href="https://twitter.com/isequaltokel" > <img align="center" src="https://img.icons8.com/color/100/000000/twitter.png"/> </a> &ensp;
+  <a href="https://twitch.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/100/000000/twitch.png"/> </a> &ensp;
 </p>
 
 
