@@ -21,8 +21,6 @@ I'm always eager to connect with like-minded individuals and professionals in th
 <p align="left">
   <a href="https://developer.apple.com/xcode/" > <img align="center" src="https://img.icons8.com/color/100/xcode.png"/> </a>
   <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/100/swift.png"/> </a>
-  <a href="https://unity.com/" > <img align="center" src="https://img.icons8.com/color/100/unity.png"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img align="center" src="https://img.icons8.com/color/100/c-sharp-logo"/> </a>
   <a href="https://firebase.com/" > <img align="center" src="https://img.icons8.com/color/100/firebase.png"/> </a>
   <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/100/circleci.png"/> </a>
 </p>
