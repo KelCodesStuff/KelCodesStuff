@@ -1,4 +1,4 @@
-<h1 align="left">👨🏽‍💻 iOS Engineer & Crypto Enthusiast 🚀</h1>
+<h1 align="left">👨🏽‍💻 iOS Engineer & <img align="center" src="https://img.icons8.com/color/50/bitcoin"/> Crypto Enthusiast </h1>
 
 
 I'm an iOS Engineer deeply passionate about crafting seamless and innovative mobile experiences. I specialize in bringing ideas to life using Swift and SwiftUI. My journey in mobile development is marked by a continuous pursuit of excellence, where I leverage cutting-edge technologies like ARKit and Metal to push the boundaries of what's possible on iOS devices.
@@ -27,10 +27,10 @@ Neon Slots+
 ## <h3 align="left">Tech</h3>
 
 <p align="left">
-  <a href="https://developer.apple.com/xcode/" > <img align="center" src="https://img.icons8.com/color/100/xcode.png"/> </a>
-  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/100/swift.png"/> </a>
-  <a href="https://firebase.com/" > <img align="center" src="https://img.icons8.com/color/100/firebase.png"/> </a>
-  <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/100/circleci.png"/> </a>
+  <a href="https://developer.apple.com/xcode/" > <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> </a>
+  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/50/swift.png"/> </a>
+  <a href="https://firebase.com/" > <img align="center" src="https://img.icons8.com/color/50/firebase.png"/> </a>
+  <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/50/circleci.png"/> </a>
 </p>
 
 ## <h3 align="left">Stats</h3>
@@ -40,7 +40,7 @@ Neon Slots+
 ## <h3 align="left">Social</h3>
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/100/linkedin.png"/> </a>
-  <a href="https://twitter.com/isequaltokel" > <img align="center" src="https://img.icons8.com/color/100/twitter.png"/> </a>
-  <a href="https://twitch.com/kelcodes" > <img align="center" src="https://img.icons8.com/color/100/twitch.png"/> </a>
+  <a href="https://linkedin.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/linkedin.png"/> </a>
+  <a href="https://twitter.com/isequaltokel" > <img align="center" src="https://img.icons8.com/color/50/twitter.png"/> </a>
+  <a href="https://twitch.com/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/twitch.png"/> </a>
 </p>
