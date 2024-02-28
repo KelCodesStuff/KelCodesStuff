@@ -14,8 +14,6 @@ As an enthusiast in the ever-evolving world of cryptocurrency, I'm fascinated by
 - ARKit: I leverage ARKit to create immersive augmented reality experiences, blending the digital and physical worlds.
 - Metal: Utilizing Metal to maximize the graphic and computing potential of iOS devices, delivering high-performance multimedia applications.
 
-I'm always eager to connect with like-minded individuals and professionals in the tech community. Whether it's discussing the latest trends in iOS development, sharing insights on crypto projects, or collaborating on open-source initiatives, I believe in the power of community to drive innovation and knowledge sharing.
-
 ## <h3 align="left">Projects</h3>
 
 Authenticator 2FA+ 
