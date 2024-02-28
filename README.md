@@ -1,7 +1,20 @@
-<h1 align="left">Hello 👋🏽 , I'm Kel</h1>
+<h1 align="left">👨🏽‍💻 iOS Engineer & Crypto Enthusiast 🚀</h1>
 
-👨🏽‍💻 I'm an iOS Engineer with a passion for building engaging, high-quality applications and games. My toolbox includes SwiftUI for sleek UIs, SceneKit & ARKit for engaging 3D experiences, Metal for high-performance graphics, and Unreal Engine for versatile game development. 
-Browse my projects to explore the innovative ways I merge technology and creativity! 
+
+Hello! I'm an iOS Engineer deeply passionate about crafting seamless and innovative mobile experiences. With a knack for blending design and functionality, I specialize in bringing ideas to life using Swift and SwiftUI. My journey in mobile development is marked by a continuous pursuit of excellence, where I leverage cutting-edge technologies like ARKit and Metal to push the boundaries of what's possible on iOS devices.
+
+My expertise lies in developing intuitive and user-friendly applications, with a keen eye for detail and a commitment to delivering high-quality software. I thrive in environments that challenge me to learn and grow, and I'm always on the lookout for opportunities to apply my skills in new and exciting ways.
+
+As an enthusiast in the ever-evolving world of cryptocurrency, I'm fascinated by the potential of blockchain technology to revolutionize the digital landscape. This interest has led me to explore how mobile platforms can intersect with crypto, aiming to contribute to innovative solutions that empower users and enhance security.
+
+🛠️ Technologies I use:
+
+- Swift: My primary language for iOS app development, enabling me to write efficient and maintainable code.
+- SwiftUI: My go-to framework for building sophisticated UIs with less code, harnessing the power of declarative syntax.
+- ARKit: I leverage ARKit to create immersive augmented reality experiences, blending the digital and physical worlds.
+- Metal: Utilizing Metal to maximize the graphic and computing potential of iOS devices, delivering high-performance multimedia applications.
+
+I'm always eager to connect with like-minded individuals and professionals in the tech community. Whether it's discussing the latest trends in iOS development, sharing insights on crypto projects, or collaborating on open-source initiatives, I believe in the power of community to drive innovation and knowledge sharing.
 
 ## <h3 align="left">Tech</h3>
 
