@@ -1,18 +1,29 @@
-<h1 align="left">👨🏽‍💻 iOS Engineer & <img align="center" src="https://img.icons8.com/color/50/bitcoin"/> Crypto Enthusiast </h1>
+<h1 align="left">👨🏽‍💻 iOS Engineer & Software Quality Enthusiast </h1>
 
 
-I'm an iOS Engineer deeply passionate about crafting seamless and innovative mobile experiences. I specialize in bringing ideas to life using Swift and SwiftUI. My journey in mobile development is marked by a continuous pursuit of excellence, where I leverage cutting-edge technologies like ARKit and Metal to push the boundaries of what's possible on iOS devices.
+As a dedicated iOS Engineer, I have honed my skills in developing innovative applications that push the boundaries of user experience and functionality. My journey through the ever-evolving tech landscape has led me to work across diverse industries, including cybersecurity, finance, and healthcare, where I've delivered cutting-edge solutions that meet the unique needs of each sector.
 
-My expertise lies in developing intuitive and user-friendly applications, with a keen eye for detail and a commitment to delivering high-quality software. I thrive in environments that challenge me to learn and grow, and I'm always on the lookout for opportunities to apply my skills in new and exciting ways.
+In addition to my expertise in app development, I have a strong background in test automation for mobile and web projects. I am constantly exploring new frameworks to enhance the efficiency and reliability of the testing process, ensuring that every product is of the highest quality.
 
-As an enthusiast in the ever-evolving world of cryptocurrency, I'm fascinated by the potential of blockchain technology to revolutionize the digital landscape. This interest has led me to explore how mobile platforms can intersect with crypto, aiming to contribute to innovative solutions that empower users and enhance security.
+## Technologies
 
-🛠️ Technologies:
+Development <img align="center" src="https://img.icons8.com/color/50/swift.png"/> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> <img align="center" src="https://img.icons8.com/color/50/firebase.png"/>
+- SwiftUI: Utilized for building user interfaces efficiently with a powerful declarative syntax that simplifies complex UI development across all Apple platforms.
+- ARKit: Employed to craft immersive augmented reality experiences that seamlessly blend the digital with the physical, enhancing user engagement through innovative AR technologies.
+- Firebase: Implemented to enhance mobile application development with robust features like real-time databases, user authentication, and analytics, streamlining the development lifecycle and scaling with ease.
 
-- Swift: My primary language for iOS app development, enabling me to write efficient and maintainable code.
-- SwiftUI: My go-to framework for building sophisticated UIs with less code, harnessing the power of declarative syntax.
-- ARKit: I leverage ARKit to create immersive augmented reality experiences, blending the digital and physical worlds.
-- Metal: Utilizing Metal to maximize the graphic and computing potential of iOS devices, delivering high-performance multimedia applications.
+Automation <img align="center" src="https://img.icons8.com/officel/50/selenium-test-automation.png"/>  <img align="center" src="https://img.icons8.com/color/50/circleci.png"/>
+- XCTest/XCUITest: Utilized for automating unit and UI testing within Xcode, ensuring high-quality applications through comprehensive test coverage to deliver a flawless user experience.
+- Selenium: Harnessed for cross-browser and cross-platform testing, automating web browser interactions to ensure consistent performance and functionality across diverse web environments.
+- CircleCI: Implemented continuous integration and delivery, automating build, test, and deployment processes to enhance software quality and release velocity.
+
+Achievements <img align="center" src="https://img.icons8.com/color/48/trophy.png"/>
+- App Development: Contributed significantly to the launch of three apps on the iOS App Store, from initial concept to final release.
+- Automation Testing: Led the creation of robust testing frameworks for mobile and web projects, enhancing efficiency and reliability.
+
+Beyond Coding
+
+Away from the digital realm, my curiosity extends to the mysteries of physics, the thrill of sports, and the immersive gaming worlds. These interests keep me balanced and fuel my creativity in professional projects.
 
 ## <h3 align="left">Projects</h3>
 
@@ -21,15 +32,6 @@ Authenticator 2FA+
 
 Neon Slots+ 
 [![TestFlight](https://img.shields.io/badge/Join%20The%20TestFlight-blue)](https://testflight.apple.com/join/JgMpvNQP)
-
-## <h3 align="left">Tech</h3>
-
-<p align="left">
-  <a href="https://developer.apple.com/xcode/" > <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> </a>
-  <a href="https://developer.apple.com/swift/" > <img align="center" src="https://img.icons8.com/color/50/swift.png"/> </a>
-  <a href="https://firebase.com/" > <img align="center" src="https://img.icons8.com/color/50/firebase.png"/> </a>
-  <a href="https://circleci.com/" > <img align="center" src="https://img.icons8.com/color/50/circleci.png"/> </a>
-</p>
 
 ## <h3 align="left">Stats</h3>
   
