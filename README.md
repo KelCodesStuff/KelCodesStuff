@@ -1,25 +1,24 @@
-<h1 align="left">👨🏽‍💻 iOS Engineer & Software Quality Enthusiast </h1>
+<h1 align="left"> 📱 Mobile Engineer | 👨🏽‍💻 Quality Engineering Enthusiast </h1>
 
 
-As a dedicated iOS Engineer, I have honed my skills in developing innovative applications that push the boundaries of user experience and functionality. My journey through the ever-evolving tech landscape has led me to work across diverse industries, including cybersecurity, finance, and healthcare, where I've delivered cutting-edge solutions that meet the unique needs of each sector.
+Accomplished SDET with 10 years of expertise in architecting and developing automated test frameworks and test suites in Swift and Java. Proficient in functional and integration testing for API, web, and mobile applications. Demonstrated ability to implement scalable and efficient test strategies, enhancing software quality and reducing defects by 30% throughout the SDLC.
 
-In addition to my expertise in app development, I have a strong background in test automation for mobile and web projects. I am constantly exploring new frameworks to enhance the efficiency and reliability of the testing process, ensuring that every product is of the highest quality.
 
 ## Technologies
 
 Development <img align="center" src="https://img.icons8.com/color/50/swift.png"/> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> <img align="center" src="https://img.icons8.com/color/50/firebase.png"/>
-- SwiftUI: Utilized for building user interfaces efficiently with a powerful declarative syntax that simplifies complex UI development across all Apple platforms.
-- ARKit: Employed to craft immersive augmented reality experiences that seamlessly blend the digital with the physical, enhancing user engagement through innovative AR technologies.
-- Firebase: Implemented to enhance mobile application development with robust features like real-time databases, user authentication, and analytics, streamlining the development lifecycle and scaling with ease.
+- SwiftUI: Leveraged to build user interfaces with a powerful declarative syntax, simplifying complex UI development across all Apple platforms.
+- ARKit: Used to create immersive augmented reality experiences, blending digital and physical elements to enhance user engagement.
+- Firebase: Integrated for robust mobile application development, providing real-time databases, user authentication, and analytics, streamlining development and scalability.
 
 Automation <img align="center" src="https://img.icons8.com/officel/50/selenium-test-automation.png"/>  <img align="center" src="https://img.icons8.com/color/50/circleci.png"/>
-- XCTest/XCUITest: Utilized for automating unit and UI testing within Xcode, ensuring high-quality applications through comprehensive test coverage to deliver a flawless user experience.
-- Selenium: Harnessed for cross-browser and cross-platform testing, automating web browser interactions to ensure consistent performance and functionality across diverse web environments.
-- CircleCI: Implemented continuous integration and delivery, automating build, test, and deployment processes to enhance software quality and release velocity.
+- XCTest/XCUITest: Utilized for automating unit and UI testing within Xcode, ensuring high-quality applications through comprehensive test coverage.
+- Selenium: Employed for cross-browser testing, automating web interactions to ensure consistent performance across diverse environments.
+- CircleCI: Implemented for continuous integration and delivery, automating build, test, and deployment processes to improve software quality and accelerate release cycles.
 
 Achievements <img align="center" src="https://img.icons8.com/color/48/trophy.png"/>
-- App Development: Contributed significantly to the launch of three apps on the iOS App Store, from initial concept to final release.
-- Automation Testing: Led the creation of robust testing frameworks for mobile and web projects, enhancing efficiency and reliability.
+- Contributed significantly to the launch of three apps on the iOS App Store, from initial concept to final release.
+- Led the creation of robust testing frameworks for mobile and web projects, enhancing efficiency and reliability.
 
 Beyond Coding
 
