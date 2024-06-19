@@ -56,10 +56,15 @@ Monitoring & Logging
 
 
 ## <h3 align="left">Achievements <img align="center" src="https://img.icons8.com/color/48/trophy.png"/></h3>
+Development
+- Utilized Unity’s AR and VR capabilities to create immersive game experiences, leading to a 30% increase in user interaction and positive feedback.
+- Implemented advanced gameplay mechanics and AI behaviors, leading to a 25% increase in player engagement and retention.
+
+Quality Engineering
 - Implemented XCTest, and XCUITest to develop unit and UI tests for iOS apps, reducing testing time by 50% and increasing code coverage to 85%.
 - Implemented PyTest to develop unit and integration tests for web apps, decreasing testing time by 30% and improving code coverage to 70%.
 - Created a scalable API testing framework using JavaScript and Postman/Newman, reducing testing duration by 25%.
-- Utilized Unity’s AR and VR capabilities to create immersive game experiences, leading to a 30% increase in user interaction and positive feedback.
+
 
 ## <h3 align="left">Beyond Coding</h3>
 
