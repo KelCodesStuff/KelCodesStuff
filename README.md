@@ -13,6 +13,7 @@ Programming Languages
 - Swift
 - Java
 - Python
+- JavaScript
 - C#
 
     </td>
@@ -22,6 +23,7 @@ Frameworks
 - XCTest/XCUITest
 - PyTest
 - Selenium
+- Cypress
 - Unity Test Framework
 
     </td>
