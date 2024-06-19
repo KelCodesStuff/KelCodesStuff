@@ -1,4 +1,4 @@
-<h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Enthusiast 👨🏽‍💻 </h1>
+<h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
 
 Accomplished Senior SDET with 10 years of experience in architecting and developing automation frameworks and suites using Swift, Java, and Python. Proficient in functional and integration testing for mobile, desktop, and web applications. Proven ability to implement scalable and efficient test strategies, significantly enhancing software quality by 30% across the SDLC.
