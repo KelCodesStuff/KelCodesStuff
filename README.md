@@ -1,7 +1,8 @@
 <h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
 
-Accomplished Senior SDET with 10 years of experience in architecting and developing automation frameworks and suites using Swift, Kotlin, and Python. Proficient in functional, integration, and regression testing for APIs, web, and mobile applications. Proven ability to implement scalable and efficient test strategies, significantly enhancing software quality across the SDLC.
+Senior iOS Engineer with seven years of experience architecting, developing, and testing high-quality mobile applications using Swift and Kotlin. Proficient at building scalable and robust apps with a strong emphasis on delivering seamless user experiences. Proven ability to implement automated tests using XCTest, XCUITest, and Compose Test ensuring efficient, reliable, and consistent app performance.
+
 
 ## <h3 align="left">Skills<img align="center" src="https://img.icons8.com/color/50/swift.png"/> <img align="center" src="https://img.icons8.com/color/50/selenium-test-automation.png"/> <img align="center" src="https://img.icons8.com/color/50/circleci.png"/> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/>  </h3>
 
@@ -11,16 +12,18 @@ Accomplished Senior SDET with 10 years of experience in architecting and develop
 
 Programming Languages
 - Swift
-- Java
+- Kotlin
+- C#
 - Python
 - JavaScript
-- C#
+
 
     </td>
     <td valign="top" width="40%">
 
 Frameworks
 - XCTest/XCUITest
+- Compose Test
 - PyTest
 - Selenium
 - Cypress
