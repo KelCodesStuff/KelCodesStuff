@@ -66,13 +66,6 @@ iOS Development
 - Developed and executed comprehensive unit tests using XCTest, achieving 70% code coverage.
 
 
-Game Development
-- Developed and maintained SDKs allowing seamless integration into third-party game engines and simplifying the process for developers to adopt new features.
-- Implemented unit and integration tests using the Unity Test Framework, increasing code quality and reducing bugs by 40% throughout development cycles.
-- Prototyped and iterated on various gameplay mechanics and features, leveraging internal testing to fine-tune gameplay balance and enhance player engagement.
-- Optimized performance by utilizing the Unity Profiler to identify and resolve bottlenecks, reducing load times by 40% and boosting frame rates by 30%.
-
-
 Quality Engineering
 - Designed and executed end-to-end test strategies for mobile apps using XCUITest and Compose Test, verifying functionality across UI and integration layers, leading to a 30% decrease in bugs post-release.
 - Developed an automated testing framework using PyTest for large-scale data ingestion systems, verifying data integrity and reducing testing time by 50%.
