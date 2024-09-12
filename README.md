@@ -1,7 +1,7 @@
 <h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
 
-Accomplished Senior iOS Engineer with 10 years of experience architecting, developing, and testing high-quality mobile applications using Swift and Kotlin. Proficient in building scalable and robust apps with a strong emphasis on delivering seamless user experiences. Demonstrated ability to implement automated tests for functional, integration, and regression testing using XCTest, XCUITest, and Compose Test, ensuring efficient, reliable, and consistent app performance.
+Accomplished Senior SDET with 10 years of experience architecting and developing automation frameworks and test suites using Swift and Kotlin. Proficient in unit, integration, and end-to-end testing for APIs, web, and mobile applications. Proven ability to implement scalable and comprehensive test strategies, significantly enhancing software quality across the SDLC.
 
 
 ## <h3 align="left">Skills<img align="center" src="https://img.icons8.com/color/50/swift.png"/> <img align="center" src="https://img.icons8.com/color/50/selenium-test-automation.png"/> <img align="center" src="https://img.icons8.com/color/50/circleci.png"/> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/>  </h3>
