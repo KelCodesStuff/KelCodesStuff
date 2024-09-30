@@ -1,6 +1,6 @@
 <h1 align="left"> Game Programmer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
-Accomplished Game Programmer with 10 years of expertise developing advanced rendering systems and graphics engines using C++ and Swift. Skilled in shader programming with OpenGL Shading Language (GLSL), and Metal Shading Language (MSL). Experienced in real-time rendering techniques and graphics optimization for game engines and SDKs. Demonstrated ability to implement high-performance graphics solutions that elevate visual quality, improving rendering efficiency by up to 25%.
+Accomplished Game Programmer with 10 years of experience developing advanced rendering systems and graphics engines using C++ and Swift. Skilled in shader programming with OpenGL Shading Language (GLSL), and Metal Shading Language (MSL). Experienced in real-time rendering techniques and graphics optimization for game engines and SDKs. Demonstrated ability to implement high-performance graphics solutions that elevate visual quality, improving rendering efficiency by up to 25%.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
