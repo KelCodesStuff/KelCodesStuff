@@ -86,6 +86,6 @@ Outside of development, I enjoy gaming, watching sports and anime, and reading b
 
 <p align="left">
   <a href="https://linkedin.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/linkedin.png"/> </a>
-  <a href="https://twitter.com/isequaltokel" > <img align="center" src="https://img.icons8.com/color/50/twitter.png"/> </a>
+  <a href="https://twitter.com/kelcodesstuff" > <img align="center" src="https://img.icons8.com/color/50/twitter.png"/> </a>
   <a href="https://twitch.com/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/twitch.png"/> </a>
 </p>
