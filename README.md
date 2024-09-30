@@ -2,7 +2,7 @@
 
 Accomplished Game Programmer with 10 years of expertise developing advanced rendering systems and graphics engines using C++ and Swift. Skilled in shader programming with the OpenGL Shading Language (GLSL), and the Metal Shading Language (MSL). Experienced in real-time rendering techniques and graphics optimization for game engines and SDKs. Demonstrated ability to implement high-performance graphics solutions that elevate visual quality, improving rendering efficiency by up to 25%.
 
-## <h3 align="left">Skills<img align="center" src="https://img.icons8.com/color/50/swift.png"/> <img align="center" src="https://img.icons8.com/color/50/selenium-test-automation.png"/> <img align="center" src="https://img.icons8.com/color/50/circleci.png"/> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/>  </h3>
+## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
 <table style="table-layout: fixed; width: 100%;">
   <tr>
@@ -47,7 +47,7 @@ IDE
 </table>
 
 
-## <h3 align="left">Achievements <img align="center" src="https://img.icons8.com/color/48/trophy.png"/></h3>
+## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/trophy.png"/> Achievements</h3>
 Game Development
 - Developed a custom real-time rendering engine using Metal, supporting dynamic lighting, shadows, and post-processing effects. Achieved a 30% performance increase in frame rates across a wide range of mobile devices.
 - Improved rendering performance by 25% by optimizing the graphics pipeline and implementing advanced culling techniques, reducing GPU overdraw and increasing frame rate stability.
@@ -62,7 +62,7 @@ iOS Development
 - Architected core functionalities, including secure token storage and generation of time-based one-time passwords (TOTP), ensuring robust authentication processes.
 - Designed and executed end-to-end test strategies for mobile apps using XCTest and XCUITest, verifying functionality across UI and integration layers, achieving 70% code coverage.
 
-## <h3 align="left">Projects</h3>
+## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/unity.png"/> Projects</h3>
 
 Worldly
 - First person open world game made with Unity for iOS.
@@ -74,7 +74,7 @@ Neon Slots+
 Authenticator 2FA+
 - Authenticator and Password Manager native iOS app.
 
-## <h3 align="left">Beyond Coding</h3>
+## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/earth-planet.png"/> Beyond Coding</h3>
 
 Outside of development, I enjoy gaming, watching sports and anime, and reading books on physics.
 
