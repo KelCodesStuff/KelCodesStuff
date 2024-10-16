@@ -1,6 +1,6 @@
-<h1 align="left"> Game Programmer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
+<h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
-Accomplished Game Programmer with 10 years of experience developing advanced rendering systems and graphics engines using C++ and Swift. Skilled in shader programming with OpenGL Shading Language (GLSL), and Metal Shading Language (MSL). Experienced in real-time rendering techniques and graphics optimization for game engines and SDKs. Demonstrated ability to implement high-performance graphics solutions that elevate visual quality, improving rendering efficiency by up to 25%.
+Accomplished Senior SDET with 10 years of experience architecting and developing automation frameworks and test suites using Swift and Kotlin. Proficient in unit, integration, and end-to-end testing for APIs, web, and mobile applications. Proven ability to implement scalable and comprehensive test strategies, significantly enhancing software quality across the SDLC.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
@@ -34,16 +34,7 @@ Testing Frameworks
 - PyTest
 - Selenium
 
-    </td>
-    <td valign="top" width="40%">
-    
-IDE
-- Xcode
-- Unity
-- PyCharm
-
-    </td>
-  </tr>
+    </td>    
 </table>
 
 
