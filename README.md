@@ -1,12 +1,12 @@
 <h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
-Accomplished Senior SDET with 10 years of experience architecting and developing automation frameworks and test suites using Swift and Kotlin. Proficient in unit, integration, and end-to-end testing for APIs, web, and mobile applications. Proven ability to implement scalable and comprehensive test strategies, significantly enhancing software quality across the SDLC.
+Accomplished Senior SDET with 10 years of experience architecting and developing automation frameworks and test suites using Swift and Python. Proficient in unit, integration, and end-to-end testing for APIs, web, and mobile applications. Proven ability to implement scalable and comprehensive test strategies, significantly enhancing software quality across the SDLC.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
 <table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td valign="top" width="40%">
+    <td valign="top" width="33%">
 
 Programming Languages
 - Swift
@@ -15,7 +15,7 @@ Programming Languages
 - Python
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="33%">
 
 Development Frameworks
 - Metal
@@ -25,7 +25,7 @@ Development Frameworks
 - Core Animation
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="33%">
 
 Testing Frameworks
 - XCTest
@@ -39,19 +39,22 @@ Testing Frameworks
 
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/trophy.png"/> Achievements</h3>
-Game Development
-- Developed a custom real-time rendering engine using Metal, supporting dynamic lighting, shadows, and post-processing effects. Achieved a 30% performance increase in frame rates across a wide range of mobile devices.
-- Improved rendering performance by 25% by optimizing the graphics pipeline and implementing advanced culling techniques, reducing GPU overdraw and increasing frame rate stability.
-- Created shaders using GLSL and MSL to support real-time global illumination, physically based rendering (PBR), and advanced post-processing effects, enhancing the visual quality of 3D scenes.
-- Prototyped and iterated on various gameplay mechanics and features, leveraging internal testing to fine-tune gameplay balance and enhance player engagement.
-- Implemented an automation testing framework for game assets and shaders, using the Unity Test Framework and PyTest, reducing manual testing time by 50% and identifying rendering issues early in the development pipeline.
-
 
 iOS Development
-- Developed views using SwiftUI within the MVVM architecture, creating user-friendly interfaces and fluid interactions.
+- Developed front-end views using SwiftUI within the MVVM architecture, creating user-friendly interfaces and seamless interactions.
 - Utilized Swift to implement on-device AES encryption for secure credential storage and management, adhering to industry-standard security practices.
 - Architected core functionalities, including secure token storage and generation of time-based one-time passwords (TOTP), ensuring robust authentication processes.
-- Designed and executed end-to-end test strategies for mobile apps using XCTest and XCUITest, verifying functionality across UI and integration layers, achieving 70% code coverage.
+- Utilized Instruments to profile iOS/macOS applications, identifying and optimizing performance bottlenecks, memory leaks, and ensuring efficient CPU usage for improved app stability and responsiveness.
+
+Test Engineering
+- Designed and executed end-to-end test strategies for iOS/macOS apps using XCUITest, verifying functionality across UI and integration layers, leading to a 30% decrease in bugs post-release.
+- Implemented end-to-end test strategies for web applications using Selenium with PyTest, verifying functionality across UI and integration layers, leading to a 20% reduction in post-release bugs.
+- Developed an automated testing framework using PyTest for threat detection and data ingestion systems, ensuring data integrity and improving detection accuracy by 15%.
+- Automated API tests using JavaScript with Postman/Newman, ensuring comprehensive REST endpoint coverage, and reducing testing efforts by 40%.
+
+
+
+
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/unity.png"/> Projects</h3>
 
