@@ -1,6 +1,6 @@
 <h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
-Accomplished Senior SDET with 10 years of experience architecting and developing automation frameworks and test suites using Swift and Python. Proficient in unit, integration, and end-to-end testing for APIs, web, and mobile applications. Proven ability to implement scalable and comprehensive test strategies, significantly enhancing software quality across the SDLC.
+Accomplished iOS Engineer with 7+ years of experience developing and testing native iOS applications using Swift. Proficient in building intuitive user interfaces with SwiftUI and UIKit, leveraging MVC and MVVM architecture patterns to ensure code is maintainable and scalable. Adept at integrating third-party libraries to enhance functionality and optimize development workflows.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
@@ -43,14 +43,17 @@ Testing Frameworks
 iOS Development
 - Developed front-end views using SwiftUI within the MVVM architecture, creating user-friendly interfaces and seamless interactions.
 - Utilized Swift to implement on-device AES encryption for secure credential storage and management, adhering to industry-standard security practices.
-- Architected core functionalities, including secure token storage and generation of time-based one-time passwords (TOTP), ensuring robust authentication processes.
+- Built core functionalities, including secure token storage and generation of time-based one-time passwords (TOTP), ensuring robust authentication processes.
 - Utilized Instruments to profile iOS/macOS applications, identifying and optimizing performance bottlenecks, memory leaks, and ensuring efficient CPU usage for improved app stability and responsiveness.
 
+
 Test Engineering
-- Designed and executed end-to-end test strategies for iOS/macOS apps using XCUITest, verifying functionality across UI and integration layers, leading to a 30% decrease in bugs post-release.
-- Implemented end-to-end test strategies for web applications using Selenium with PyTest, verifying functionality across UI and integration layers, leading to a 20% reduction in post-release bugs.
-- Developed an automated testing framework using PyTest for threat detection and data ingestion systems, ensuring data integrity and improving detection accuracy by 15%.
-- Automated API tests using JavaScript with Postman/Newman, ensuring comprehensive REST endpoint coverage, and reducing testing efforts by 40%.
+- Designed and implemented end-to-end test strategies for mobile applications using Appium, verifying user account systems and reducing manual testing efforts by 50%.
+- Developed an automated testing framework for web applications using Selenium, verifying organizational and user onboarding systems and increasing code coverage to 65%.
+- Conducted performance testing with Postman for security device REST endpoints, identifying bottlenecks and achieving a 25% improvement in API response times.
+- Integrated automation tests into CI/CD pipelines, optimizing build, test, and deployments that reduced release time by 25% and increased deployment frequency by 15%.
+
+
 
 
 
