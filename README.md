@@ -61,15 +61,16 @@ Test Engineering
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/unity.png"/> Projects</h3>
 
-Worldly
-- First person open world game made with Unity for iOS.
-
-Neon Slots+
-- Slot Machine game with neon visuals, made with SwiftUI for iOS.
 
 
 Authenticator 2FA+
 - Authenticator and Password Manager native iOS app.
+
+Neon Casino+
+- Slot Machine game with neon visuals, made with SwiftUI for iOS.
+
+Worldly
+- First person open world game made with Unity for iOS.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/earth-planet.png"/> Beyond Coding</h3>
 
