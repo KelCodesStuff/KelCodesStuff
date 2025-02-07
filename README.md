@@ -1,6 +1,6 @@
 <h1 align="left"> iOS Engineer 📱 |  Quality Specialist 👨🏽‍💻 </h1>
 
-Results-driven iOS Engineer with 7+ years of experience developing and releasing high-quality iOS applications that have achieved 4.0 star ratings on the App Store. Proven ability to write clean, maintainable Swift code with a strong focus on performance optimization and security. Expertise in multiple iOS frameworks, MVC and MVVM architectural patterns, and UI/UX principles, with a passion for creating intuitive and engaging mobile experiences.
+Results-driven iOS Engineer with 7+ years of experience developing and launching successful iOS applications, achieving over 250,000 downloads and positive user feedback on the App Store. Proven ability to write clean, maintainable Swift code with a strong focus on performance optimization and security. Expertise in multiple iOS frameworks, MVC and MVVM architectural patterns, and UI/UX principles, with a passion for creating intuitive and engaging mobile experiences.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
