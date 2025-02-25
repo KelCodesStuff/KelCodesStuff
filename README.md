@@ -1,6 +1,8 @@
-<h1 align="left"> iOS Engineer 📱 |  Quality Specialist 👨🏽‍💻 </h1>
+<h1 align="left"> iOS Engineer 📱 |  Physics Programmer 👨🏽‍💻 </h1>
 
-Results-driven iOS Engineer with 7+ years of experience developing and launching successful iOS applications, achieving over 250,000 downloads and positive user feedback on the App Store. Proven ability to write clean, maintainable Swift code with a strong focus on performance optimization and security. Expertise in multiple iOS frameworks, MVC and MVVM architectural patterns, and UI/UX principles, with a passion for creating intuitive and engaging mobile experiences.
+iOS Engineer with expertise in SwiftUI, Metal, Core Animation, and Core Data (including experience optimizing performance-critical applications using Instruments and efficient memory management). 
+
+I'm developing Box3D, a 3D physics engine built upon Box2D, prioritizing a modular architecture, comprehensive documentation, and a performance-oriented codebase for simulating rigid body dynamics.
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
@@ -10,20 +12,19 @@ Results-driven iOS Engineer with 7+ years of experience developing and launching
 
 Programming Languages
 - Swift
-- C#
-- Python
+- C
+- C++
 
     </td>
     <td valign="top" width="33%">
 
 Development Frameworks
 - SwiftUI
-- UIKit
 - Metal
 - Core Data
 - Core Animation
-- GCD
-- Firebase
+- GLM
+- SDL2
 
     </td>
     <td valign="top" width="33%">
@@ -31,8 +32,7 @@ Development Frameworks
 Testing Frameworks
 - XCTest
 - XCUITest
-- Unity Test Framework
-- PyTest
+- Google Test
 
 
     </td>    
@@ -41,13 +41,19 @@ Testing Frameworks
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/trophy.png"/> Achievements</h3>
 
-- Redesigned a legacy UIKit application using SwiftUI, resulting in a 25% reduction in size and a 15% improvement in load times.
+iOS Development
+- Redesigned a legacy UIKit financial application using SwiftUI, resulting in a 25% reduction in size and a 15% improvement in load times.
 - Collaborated with designers to implement a new user interface for a financial tracking application using SwiftUI, resulting in a 20% increase in user engagement.
 - Built core functionalities using SwiftOTP for an authenticator application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
 - Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
 - Applied Instruments to profile iOS/macOS applications, identifying and optimizing performance bottlenecks, and reduced memory consumption by 15%.
 - Developed and maintained comprehensive unit and UI tests using XCTest and XCUITest frameworks, ensuring code quality, functionality, and a 10% increase in app stability.
 
+Physics Programming
+- Developing Box3D, a 3D extension of Box2D in C++ (In Progress) [Box3D](https://github.com/KelCodesStuff/Box3D/)
+  - Implementing rigid body dynamics.
+  - Implementing an iterative constraint solver.
+  - Implementing collision detection: dynamic AABB tree (broad-phase) and SAT/GJK (narrow-phase).
 
 ## <h3 align="left">Stats</h3>
 
