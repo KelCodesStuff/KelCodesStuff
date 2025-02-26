@@ -1,8 +1,8 @@
 <h1 align="left"> iOS Engineer 📱 |  Physics Programmer 👨🏽‍💻 </h1>
 
-iOS Engineer with expertise in SwiftUI, Metal, Core Animation, and Core Data (including experience optimizing performance-critical applications using Instruments and efficient memory management). 
+Results-driven Senior iOS Engineer with 7+ years of experience developing and launching successful iOS applications, achieving over 250,000 downloads and positive user feedback on the App Store. Proven ability to write maintainable Swift code with a strong focus on performance optimization and memory management. Expertise in multiple iOS frameworks, MVC and MVVM architectural patterns, and UI/UX principles, with a passion for creating intuitive and engaging mobile experiences. 
 
-I'm developing Box3D, a 3D physics engine built upon Box2D, prioritizing a modular architecture, comprehensive documentation, and a performance-oriented codebase for simulating rigid body dynamics.
+In my spare time, I'm developing Box3D, a 3D physics engine built upon Box2D. Motivated by a passion for game development and a desire to explore advanced physics simulations, Box3D prioritizes a modular architecture and a performance-oriented codebase. 
 
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
