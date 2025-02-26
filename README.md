@@ -42,12 +42,12 @@ Testing Frameworks
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/trophy.png"/> Achievements</h3>
 
 iOS Development
-- Redesigned a legacy UIKit financial application using SwiftUI, resulting in a 25% reduction in size and a 15% improvement in load times.
-- Collaborated with designers to implement a new user interface for a financial tracking application using SwiftUI, resulting in a 20% increase in user engagement.
+- Refactored a legacy UIKit banking application to SwiftUI, modernizing the user interface and achieving a 20% reduction in app bundle size and a 15% improvement in initial load times, enhancing user experience.
+- Analyzed memory usage with Instruments, identifying and optimizing performance bottlenecks, and reduced memory consumption by 10%.
 - Built core functionalities using SwiftOTP for an authenticator application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
 - Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
-- Applied Instruments to profile iOS/macOS applications, identifying and optimizing performance bottlenecks, and reduced memory consumption by 15%.
-- Developed and maintained comprehensive unit and UI tests using XCTest and XCUITest frameworks, ensuring code quality, functionality, and a 10% increase in app stability.
+- Developed and maintained comprehensive unit and UI tests using XCTest and XCUITest, ensuring code quality, functionality, and a 30% reduction in crash reports measured by Sentry.
+
 
 Physics Programming
 - Developing Box3D, a 3D extension of Box2D in C++ (In Progress) [Box3D](https://github.com/KelCodesStuff/Box3D/)
