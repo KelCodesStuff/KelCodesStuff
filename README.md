@@ -45,10 +45,11 @@ Testing Frameworks
 
 iOS Development
 - Refactored a UIKit banking application to SwiftUI as part of a four-engineer team, modernizing the user interface resulting in a 15% improvement in initial load times.
-- Analyzed memory usage with Instruments, identifying and optimizing performance bottlenecks, leading to a reduction in memory consumption by 35%.
+- Utilized Instruments to analyze and optimize encrypted data handling in the password vault, resolving a memory leak and reducing memory consumption by 35% during large data operations.
 - Built core functionalities using SwiftOTP for a password manager application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
 - Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
 - Developed and maintained comprehensive unit and UI tests using XCTest and XCUITest, ensuring code quality, functionality, and a 30% reduction in crash reports measured by Sentry.
+
 
 
 Physics Programming
