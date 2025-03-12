@@ -1,6 +1,8 @@
 <h1 align="left"> iOS Engineer 📱 |  Physics Programmer 👨🏽‍💻 </h1>
 
-Results-driven iOS Engineer with 7 years of experience developing and launching highly successful applications, achieving over 350K downloads. Expert in SwiftUI, UIKit, Core Data, and Concurrency, with a proven ability to optimize for performance and memory management. Proficient in architecting applications using MVC and MVVM patterns, and adept at implementing UI/UX principles to create intuitive and engaging mobile experiences.
+### Hello, 👋🏼 I'm Kel 
+
+A results-driven iOS Engineer with 7 years of experience developing and launching highly successful applications, achieving over 350K downloads. Expert in SwiftUI, UIKit, Core Data, and Concurrency, with a proven ability to optimize for performance and memory management. Proficient in architecting applications using MVC and MVVM patterns, and adept at implementing UI/UX principles to create intuitive and engaging mobile experiences.
 
 In my spare time, I'm developing Box3D, a 3D physics engine built upon Box2D. Motivated by my passion for game development and a desire to explore advanced physics simulations, Box3D prioritizes a modern architecture and a performance-oriented codebase. 
 
