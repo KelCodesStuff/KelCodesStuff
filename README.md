@@ -4,8 +4,6 @@
 
 A results-driven iOS Engineer with 7 years of experience developing and launching highly successful applications, achieving over 350K downloads. Expert in SwiftUI, UIKit, Core Data, and Concurrency, with a proven ability to optimize for performance and memory management. Proficient in architecting applications using MVC and MVVM patterns, and adept at implementing UI/UX principles to create intuitive and engaging mobile experiences.
 
-In my spare time, I'm developing Box3D, a 3D physics engine built upon Box2D. Motivated by my passion for game development and a desire to explore advanced physics simulations, Box3D prioritizes a modern architecture and a performance-oriented codebase. 
-
 ## <h3 align="left"> <img align="center" src="https://img.icons8.com/color/50/xcode.png"/> Skills</h3>
 
 <table style="table-layout: fixed; width: 100%;">
@@ -25,8 +23,6 @@ Development Frameworks
 - Metal
 - Core Data
 - Core Animation
-- GLM
-- SDL2
 
     </td>
     <td valign="top" width="33%">
@@ -54,7 +50,7 @@ iOS Development
 
 
 Physics Programming
-- Developing Box3D, a 3D extension of Box2D in C++ (In Progress) [Box3D](https://github.com/KelCodesStuff/Box3D/)
+- Developing Box3D, a 3D extension of Box2D in C++ (In Progress)
   - Implementing rigid body dynamics.
   - Implementing an iterative constraint solver.
   - Implementing collision detection: dynamic AABB tree (broad-phase) and SAT/GJK (narrow-phase).
