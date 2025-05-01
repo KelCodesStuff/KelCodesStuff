@@ -1,8 +1,8 @@
-<h1 align="left"> iOS Engineer 📱 |  Physics Programmer 👨🏽‍💻 </h1>
+<h1 align="left"> iOS Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
 ### Hello, 👋🏼 I'm Kel 
 
-A results-driven iOS Engineer with 7 years of experience developing and launching highly successful applications, achieving over 350K downloads. Expert in multiple iOS frameworks such as SwiftUI, UIKit, Core Data, and Concurrency, with a proven ability to optimize for performance and memory management. Proficient in architecting applications using MVC and MVVM patterns, and adept at implementing UI/UX principles to create intuitive and engaging mobile experiences.
+Results-driven iOS Engineer with 11 years of experience developing, testing, and launching iOS applications. Proficient in diagnosing and resolving performance bottlenecks and memory leaks in large-scale applications to improve app stability. Adept at architecting scalable applications using the MVVM pattern and implementing UI/UX principles to deliver intuitive and engaging user experiences.
 
 # Skills 🛠️
 
@@ -12,17 +12,20 @@ A results-driven iOS Engineer with 7 years of experience developing and launchin
 
 Programming Languages
 - Swift
-- C
-- C++
+- Kotlin
+- Python
 
     </td>
     <td valign="top" width="33%">
 
 Development Frameworks
 - SwiftUI
-- Metal
+- UIKit
+- Combine
+- Swift Concurrency
 - Core Data
 - Core Animation
+- Jetpack Compose
 
     </td>
     <td valign="top" width="33%">
@@ -30,7 +33,9 @@ Development Frameworks
 Testing Frameworks
 - XCTest
 - XCUITest
-- Google Test
+- Compose Test
+- Espresso
+- JUnit
 
 
     </td>    
@@ -41,23 +46,20 @@ Testing Frameworks
 
 ### iOS Development
 - Refactored a UIKit banking application to SwiftUI as part of a four-engineer team, modernizing the user interface resulting in a 15% improvement in initial load times.
-- Utilized Instruments to analyze and optimize encrypted data handling, resolving a memory leak and reducing memory consumption by 35% during large data operations.
-- Engineered core functionalities using SwiftOTP for a password manager application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
-- Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
-- Developed fluid and engaging user interfaces by leveraging Core Animation to create custom animations and transitions within a messaging application, enhancing user experience and application interactivity.
-- Architected and maintained comprehensive unit and UI tests using XCTest and XCUITest, ensuring code reliability, functionality, and a 30% reduction in crash reports measured by Sentry.
+- Utilized Instruments to analyze and optimize encrypted data handling, resolving memory leaks and reducing memory consumption by 35% during large data operations.
+- Engineered core functionalities for a password manager application using SwiftOTP, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
+- Developed fluid and engaging user interfaces by leveraging Core Animation to create custom animations within a messaging application, enhancing user experience and application interactivity.
+- Architected and maintained comprehensive unit and UI tests using XCTest and XCUITest, ensuring code functionality, and a 30% reduction in error reports in Sentry.
 
-### Physics Programming
-- Physics Simulations in iOS using Swift and SceneKit
-  - Built sphere simulation demonstrating mass-dependent behavior and wind force effects.
-  - Designed particle system for fluid behavior simulation using SceneKit's physics engine.
-  - Implemented physics-based interactions between 200+ particles and solid container.
-  - Tuned physical properties (restitution, friction, damping) to achieve realistic fluid dynamics.
-  
-- Box3D, a 3D extension of Box2D in C++ (In Progress)
-  - Implementing rigid body dynamics.
-  - Implementing an iterative constraint solver.
-  - Implementing collision detection: dynamic AABB tree (broad-phase) and SAT/GJK (narrow-phase).
+
+### Quality Engineering
+- Led the designed and implementation of scalable automated test frameworks for mobile applications using Compose Test and XCUITest empowering feature teams to increase code coverage by up to 70%.
+- Spearheaded the creation of a Python tool to capture and analyze network traffic from mobile devices during manual testing, resulting in faster identification and diagnosis of backend issues.
+- Drove the development of an automated testing framework using PyTest for threat detection and data ingestion systems, ensuring data integrity and improving detection accuracy by 15%.
+- Conducted performance/load testing with Postman for REST endpoints, identifying bottlenecks and achieving a 25% improvement in API response times.
+- Integrated automation tests into CI/CD pipelines, leveraging AWS Device Farm for testing and deployments that reduced release time by 25% and increased deployment frequency by 20%.
+
+
 
 # Stats 📈
 
