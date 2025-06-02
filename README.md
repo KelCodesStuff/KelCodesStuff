@@ -2,7 +2,7 @@
 
 ### Hello, 👋🏼 I'm Kel 
 
-Results-driven iOS Engineer with 11 years of experience developing, testing, and launching iOS applications. Proficient in diagnosing and resolving performance bottlenecks and memory leaks in large-scale applications to improve app stability. Adept at architecting scalable applications using the MVVM pattern and implementing UI/UX principles to deliver intuitive and engaging user experiences.
+Results-driven Senior iOS Engineer with 11 years of experience developing and launching native iOS applications. Proficient in SwiftUI and UIKit, while implementing architectural patterns in MVC and MVVM, and skilled in testing with XCTest and XCUITest. Expert in improving app performance and stability through root cause analysis and enhanced test coverage across the SDLC.
 
 # Skills 🛠️
 
