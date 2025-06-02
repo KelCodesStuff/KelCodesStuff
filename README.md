@@ -45,19 +45,22 @@ Testing Frameworks
 # Experience ✅
 
 ### iOS Development
-- Refactored a UIKit banking application to SwiftUI as part of a four-engineer team, modernizing the user interface resulting in a 15% improvement in initial load times.
+- Refactored a UIKit banking application to SwiftUI as part of a four engineer team, modernizing the user interface resulting in a 15% improvement in initial load times.
+- Optimized large data operations by leveraging async/await to offload processing to background queues, resulting in a 35% reduction in memory usage during peak usage and preventing UI freezes.
 - Utilized Instruments to analyze and optimize encrypted data handling, resolving memory leaks and reducing memory consumption by 35% during large data operations.
-- Engineered core functionalities for a password manager application using SwiftOTP, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
-- Developed fluid and engaging user interfaces by leveraging Core Animation to create custom animations within a messaging application, enhancing user experience and application interactivity.
-- Architected and maintained comprehensive unit and UI tests using XCTest and XCUITest, ensuring code functionality, and a 30% reduction in error reports in Sentry.
+- Developed fluid and engaging user interfaces by leveraging Core Animation to create custom animations and transitions, enhancing user experience and application interactivity.
+- Built core functionalities using SwiftOTP for a password manager application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
+- Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
 
 
 ### Quality Engineering
-- Led the designed and implementation of scalable automated test frameworks for mobile applications using Compose Test and XCUITest empowering feature teams to increase code coverage by up to 70%.
-- Spearheaded the creation of a Python tool to capture and analyze network traffic from mobile devices during manual testing, resulting in faster identification and diagnosis of backend issues.
-- Drove the development of an automated testing framework using PyTest for threat detection and data ingestion systems, ensuring data integrity and improving detection accuracy by 15%.
-- Conducted performance/load testing with Postman for REST endpoints, identifying bottlenecks and achieving a 25% improvement in API response times.
-- Integrated automation tests into CI/CD pipelines, leveraging AWS Device Farm for testing and deployments that reduced release time by 25% and increased deployment frequency by 20%.
+- Led the design and implementation of scalable automated test frameworks for mobile applications using XCUITest and Compose Test, empowering feature teams to increase code coverage by up to 70%.
+- Developed and executed automated unit test suites using XCTest and Swift, achieving 90% test coverage for user flows and reducing test execution time by 30%.
+- Maintained testing infrastructure, developing and integrating automation frameworks into AWS CodePipeline and AWS Device Farm, ensuring 99% uptime and increasing deployment frequency by 25%.
+- Drove the development of an automated testing framework using Pytest and NumPy for AI threat detection systems, improving detection accuracy by 30%.
+- Developed and implemented end-to-end tests for distributed data ingestion pipelines, validating data integrity and performance across various microservices and decreasing data ingestion latency by 15%.
+- Conducted performance/load testing with Locust for REST and GraphQL endpoints, identifying bottlenecks and achieving a 25% improvement in API response times.
+- Utilized Sentry to analyze errors and logs in staging and production environments, with the goal of root cause identification and resolution and identifying test gaps.
 
 
 
