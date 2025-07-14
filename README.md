@@ -82,13 +82,11 @@ Tools
 ### Web
 - Boosted feature team code coverage up to 80% through leading the implementation of a scalable web automation test framework using Cypress.
 - Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
+- Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
 
 ### API
 - Achieved a 25% improvement in API response times by conducting targeted performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
 - Developed and executed data-driven API tests using Postman collections, verifying backend service reliability and performance, which reduced defects by 40%.
-
-### Infrastructure
-- Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
 
 ### Debugging
 - Streamlined root cause identification and resolution for errors and logs across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
