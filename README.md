@@ -1,8 +1,8 @@
-<h1 align="left"> iOS Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
+<h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
 
 ### Hello, 👋🏼 I'm Kel 
 
-Results-driven Senior iOS Engineer with 11 years of experience developing and launching native iOS applications. Proficient in SwiftUI and UIKit, while implementing architectural patterns in MVC and MVVM, and skilled in testing with XCTest and XCUITest. Expert in improving app performance and stability through root cause analysis and enhanced test coverage across the SDLC.
+Results-driven Senior SDET with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile and web applications. Proficient in testing methodologies, including functional, regression, performance and end-to-end. Proven ability to implement comprehensive testing strategies that enhance software quality across the SDLC.
 
 # Skills 🛠️
 
@@ -13,8 +13,10 @@ Results-driven Senior iOS Engineer with 11 years of experience developing and la
 Programming Languages
 - Swift
 - Kotlin
+- Java
 - Python
-
+- TypeScript/JavaScript
+- C#
     </td>
     <td valign="top" width="33%">
 
@@ -36,32 +38,59 @@ Testing Frameworks
 - Compose Test
 - Espresso
 - JUnit
+- Appium
+- Selenium
+- Cypress
 
 
     </td>    
+
+    <td valign="top" width="33%">
+
+Cloud Services
+- Firebase Test Lab
+- Firebase Crashlytics
+- AWS Device Farm
+- AWS CodePipeline
+- SauceLabs
+
+    </td>
+
+    <td valign="top" width="33%">
+
+Tools
+- Sentry
+- Datadog
+- Postman
+- Docker
+- PostgreSQL
+
+    </td>
 </table>
 
 
 # Experience ✅
 
-### iOS Development
-- Refactored a UIKit banking application to SwiftUI as part of a four engineer team, modernizing the user interface resulting in a 15% improvement in initial load times.
-- Optimized large data operations by leveraging async/await to offload processing to background queues, resulting in a 35% reduction in memory usage during peak usage and preventing UI freezes.
-- Utilized Instruments to analyze and optimize encrypted data handling, resolving memory leaks and reducing memory consumption by 35% during large data operations.
-- Developed fluid and engaging user interfaces by leveraging Core Animation to create custom animations and transitions, enhancing user experience and application interactivity.
-- Built core functionalities using SwiftOTP for a password manager application, including token storage and generation of time-based one-time passwords (TOTP), improving user security and account protection.
-- Leveraged CryptoSwift to implement on-device AES-256 encryption for secure storage and management of sensitive user credentials, including usernames, passwords, and TOTP secrets.
+### Mobile
+- Significantly reduced test execution time by 30% and achieved 90% test coverage for user flows by developing and executing automated unit test suites using XCTest and Swift.
+- Empowered feature teams to increase code coverage by up to 70% through leading the design and implementation of scalable automated test frameworks for mobile apps using XCUITest, and Compose Test.
+- Pioneered automated testing for mobile applications using XCUITest and Espresso, elevating code coverage from a baseline of 0% to a robust 40%.
+- Reduced critical production issues by 20% by building and maintaining robust mobile testing infrastructure (Appium, TestNG, Firebase Test Lab) that enabled comprehensive automated end-to-end, functional, and regression testing.
 
+### Web
+- Boosted feature team code coverage by up to 80% through leading the implementation of a scalable web automation test framework using Cypress.
+- Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
 
-### Quality Engineering
-- Led the design and implementation of scalable automated test frameworks for mobile applications using XCUITest and Compose Test, empowering feature teams to increase code coverage by up to 70%.
-- Developed and executed automated unit test suites using XCTest and Swift, achieving 90% test coverage for user flows and reducing test execution time by 30%.
-- Maintained testing infrastructure, developing and integrating automation frameworks into AWS CodePipeline and AWS Device Farm, ensuring 99% uptime and increasing deployment frequency by 25%.
-- Drove the development of an automated testing framework using Pytest and NumPy for AI threat detection systems, improving detection accuracy by 30%.
-- Developed and implemented end-to-end tests for distributed data ingestion pipelines, validating data integrity and performance across various microservices and decreasing data ingestion latency by 15%.
-- Conducted performance/load testing with Locust for REST and GraphQL endpoints, identifying bottlenecks and achieving a 25% improvement in API response times.
-- Utilized Sentry to analyze errors and logs in staging and production environments, with the goal of root cause identification and resolution and identifying test gaps.
+### API
+- Achieved a 25% improvement in API response times by conducting targeted performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
+- Developed and executed comprehensive API tests using Postman, verifying the reliability and performance of critical backend services and reducing defects by 40%.
 
+### Infrastructure
+- Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
+
+### Debugging
+- Streamlined root cause identification and resolution for errors and logs across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
+- Identified performance regressions in mobile applications by leveraging Xcode Instruments and Android Studio Profiler to analyze CPU, and memory, resulting in a 15% reduction in ANRs/crashes and ensuring a smoother user experience.
 
 
 # Stats 📈
