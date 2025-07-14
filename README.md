@@ -61,6 +61,8 @@ Cloud Services
 Tools
 - Sentry
 - Datadog
+- Xcode Instruments
+- Android Studio Profiler
 - Postman
 - Docker
 - PostgreSQL
@@ -72,18 +74,18 @@ Tools
 # Experience ✅
 
 ### Mobile
-- Significantly reduced test execution time by 30% and achieved 90% test coverage for user flows by developing and executing automated unit test suites using XCTest and Swift.
+- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for main user flows by developing and executing automated suites using XCTest and JUnit.
 - Empowered feature teams to increase code coverage by up to 70% through leading the design and implementation of scalable automated test frameworks for mobile apps using XCUITest, and Compose Test.
-- Pioneered automated testing for mobile applications using XCUITest and Espresso, elevating code coverage from a baseline of 0% to a robust 40%.
+- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, elevating overall functional code coverage from 0% to a robust 40%.
 - Reduced critical production issues by 20% by building and maintaining robust mobile testing infrastructure (Appium, TestNG, Firebase Test Lab) that enabled comprehensive automated end-to-end, functional, and regression testing.
 
 ### Web
-- Boosted feature team code coverage by up to 80% through leading the implementation of a scalable web automation test framework using Cypress.
+- Boosted feature team code coverage up to 80% through leading the implementation of a scalable web automation test framework using Cypress.
 - Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
 
 ### API
 - Achieved a 25% improvement in API response times by conducting targeted performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
-- Developed and executed comprehensive API tests using Postman, verifying the reliability and performance of critical backend services and reducing defects by 40%.
+- Developed and executed data-driven API tests using Postman collections, verifying backend service reliability and performance, which reduced defects by 40%.
 
 ### Infrastructure
 - Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
