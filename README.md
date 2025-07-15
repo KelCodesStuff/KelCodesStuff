@@ -7,67 +7,72 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
 # Skills 🛠️
 
 <table style="table-layout: fixed; width: 100%;">
-  <tr>
-    <td valign="top" width="33%">
-
-Programming Languages
-- Swift
-- Kotlin
-- Java
-- Python
-- TypeScript/JavaScript
-- C#
-    </td>
-    <td valign="top" width="33%">
-
-Development Frameworks
-- SwiftUI
-- UIKit
-- Combine
-- Swift Concurrency
-- Core Data
-- Core Animation
-- Jetpack Compose
-
-    </td>
-    <td valign="top" width="33%">
-
-Testing Frameworks
-- XCTest
-- XCUITest
-- Compose Test
-- Espresso
-- JUnit
-- Appium
-- Selenium
-- Cypress
-
-
-    </td>    
-
-    <td valign="top" width="33%">
-
-Cloud Services
-- Firebase Test Lab
-- Firebase Crashlytics
-- AWS Device Farm
-- AWS CodePipeline
-- SauceLabs
-
-    </td>
-
-    <td valign="top" width="33%">
-
-Tools
-- Sentry
-- Datadog
-- Xcode Instruments
-- Android Studio Profiler
-- Postman
-- Docker
-- PostgreSQL
-
-    </td>
+  <thead>
+    <tr>
+      <th width="20%">Programming Languages</th>
+      <th width="20%">Development Frameworks</th>
+      <th width="20%">Testing Frameworks</th>
+      <th width="20%">Cloud Services</th>
+      <th width="20%">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li>Swift</li>
+          <li>Kotlin</li>
+          <li>Java</li>
+          <li>Python</li>
+          <li>TypeScript</li>
+          <li>JavaScript</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>SwiftUI</li>
+          <li>UIKit</li>
+          <li>Swift Concurrency</li>
+          <li>Core Data</li>
+          <li>Jetpack Compose</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>XCTest</li>
+          <li>XCUITest</li>
+          <li>Compose Test</li>
+          <li>Espresso</li>
+          <li>JUnit</li>
+          <li>Appium</li>
+          <li>Selenium</li>
+          <li>Cypress</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>Firebase Test Lab</li>
+          <li>Firebase Crashlytics</li>
+          <li>AWS Device Farm</li>
+          <li>AWS CodePipeline</li>
+          <li>SauceLabs</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>Sentry</li>
+          <li>Datadog</li>
+          <li>Xcode Instruments</li>
+          <li>Android Studio Profiler</li>
+          <li>Postman</li>
+          <li>Docker</li>
+          <li>PostgreSQL</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
