@@ -74,14 +74,14 @@ Tools
 # Experience ✅
 
 ### Mobile
-- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for user account features by developing and executing automated suites using XCTest and JUnit.
-- Empowered feature teams to increase code coverage to 70% through leading the design and implementation of scalable automated test frameworks for mobile apps using XCUITest, and Compose Test.
+- Empowered mobile feature teams to increase code coverage to 70% through leading the design and implementation of scalable automated test frameworks using XCUITest, and Compose Test.
 - Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, elevating overall functional code coverage from 0% to a robust 40%.
+- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for user account features by developing and executing automated suites using XCTest and JUnit.
 - Reduced regression issues by 20% by building and maintaining robust mobile testing infrastructure (Appium, TestNG, Firebase Test Lab) that enabled comprehensive automated end-to-end, functional, and regression testing.
 - Identified performance regressions in mobile applications by leveraging Xcode Instruments and Android Studio Profiler to analyze CPU, and memory, resulting in a 15% reduction in ANRs/crashes and ensuring a smoother user experience.
 
 ### Web
-- Boosted feature team code coverage to 80% through leading the implementation of a scalable web automation test framework using Cypress.
+- Enabled web feature teams to boost code coverage to 80% through developing and implementing a scalable automation test framework using Cypress.
 - Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
 - Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
 - Streamlined root cause identification and resolution for errors and logs across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
