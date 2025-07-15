@@ -88,6 +88,7 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
 ### Web
 - Enabled web feature teams to boost code coverage to 80% through developing and implementing a scalable automation test framework using Cypress.
 - Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
+- Verified the integrity and reliability of alert data pipelines by implementing automated validation frameworks using Pytest, leading to a 15% reduction in data-related production incidents.
 - Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
 - Streamlined root cause identification and resolution for errors and logs across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
 
