@@ -32,8 +32,6 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
         <ul>
           <li>SwiftUI</li>
           <li>UIKit</li>
-          <li>Swift Concurrency</li>
-          <li>Core Data</li>
           <li>Jetpack Compose</li>
           <li>React Native</li>
           <li>Pandas</li>
