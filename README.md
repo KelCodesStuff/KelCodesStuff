@@ -2,7 +2,7 @@
 
 ### Hello, 👋🏼 I'm Kel 
 
-Results-driven Senior SDET with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile and web applications. Proficient in testing methodologies, including functional, regression, performance and end-to-end. Proven ability to implement comprehensive testing strategies that enhance software quality across the SDLC.
+Results-driven Senior SDET with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for API, mobile, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive testing strategies that enhance software quality across the SDLC.
 
 # Skills 🛠️
 
@@ -35,6 +35,7 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
           <li>Swift Concurrency</li>
           <li>Core Data</li>
           <li>Jetpack Compose</li>
+          <li>React Native</li>
           <li>Pandas</li>
           <li>NumPy</li>
         </ul>
@@ -48,6 +49,7 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
           <li>JUnit</li>
           <li>Appium</li>
           <li>Selenium</li>
+          <li>Playwright</li>
           <li>Cypress</li>
         </ul>
       </td>
