@@ -76,21 +76,21 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
 # Experience
 
 ### 📱 Mobile 
-- Empowered mobile feature teams to increase code coverage to 70% through leading the design and implementation of scalable automated test frameworks using XCUITest, and Compose Test.
-- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, elevating overall functional test coverage from 0% to 40%.
-- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for user account features by developing and executing automated suites using XCTest and JUnit.
+- Led mobile feature teams to increase code coverage to 70% through leading the design and implementation of scalable automated test frameworks using XCUITest, and Compose Test.
+- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, elevating overall functional test coverage from 0% to 50%.
+- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for user account features by developing automated suites using XCTest and JUnit.
 - Reduced regression issues by 20% by building and maintaining robust mobile testing infrastructure (Appium, TestNG, Firebase Test Lab) that enabled comprehensive automated end-to-end, functional, and regression testing.
 - Identified performance regressions in mobile applications by leveraging Xcode Instruments and Android Studio Profiler to analyze CPU, and memory, resulting in a 15% reduction in ANRs/crashes and ensuring a smoother user experience.
 
 ### 🕸️ Web
-- Led the enablement of agile teams to boost the number of regressions detected by 50% through developing and implementing a scalable automation test framework using Cypress.
+- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing a scalable automation test framework using Cypress.
 - Spearheaded the improvement of AI threat detection for distributed systems accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
 - Verified the integrity and reliability of alert data pipelines by implementing automated validation frameworks using Pytest, leading to a 15% reduction in data related production incidents.
 - Architected a test automation infrastructure and framework using Selenium WebDriver, Cucumber BDD, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
-- Streamlined root cause identification and resolution for errors across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
+- Reduced time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
 ### 🎮 Game Development
-- Architected and engineered a C#-based automated testing framework within Unity, enabling scalable end-to-end and integration tests for core game mechanics, which increased test coverage by 40% and reduced critical bugs in pre-release builds by 30%.
+- Architected and engineered a C#-based automated testing framework within Unity, enabling scalable end-to-end and integration tests for core game mechanics, which increased test coverage to 80% and reduced critical bugs in pre-release builds by 30%.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
 - Developed a custom bug reporting tool in Unity that automated the capture of logs and device information for iOS and Android, which accelerated the reporting of impactful bugs by 35% and improved the clarity of bug reports for the development team.
 - Led the black box testing effort across iOS and Android, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs in the first week post-release by 40%.
