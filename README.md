@@ -2,7 +2,7 @@
 
 ### Hello, 👋🏼 I'm Kel 
 
-Results-driven Senior SDET with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for API, mobile, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive testing strategies that enhance software quality across the SDLC.
+Lead Engineer with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile apps, mobile games, web, and APIs. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive testing strategies that enhance software quality across the SDLC.
 
 # Skills 🛠️
 
@@ -22,10 +22,8 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
         <ul>
           <li>Swift</li>
           <li>Kotlin</li>
-          <li>Java</li>
+          <li>C#</li>
           <li>Python</li>
-          <li>TypeScript</li>
-          <li>JavaScript</li>
         </ul>
       </td>
       <td valign="top">
@@ -33,9 +31,9 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
           <li>SwiftUI</li>
           <li>UIKit</li>
           <li>Jetpack Compose</li>
-          <li>React Native</li>
-          <li>Pandas</li>
-          <li>NumPy</li>
+          <li>Unity</li>
+          <li>Tensorflow</li>
+          <li>PyTorch</li>
         </ul>
       </td>
       <td valign="top">
@@ -43,10 +41,8 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
           <li>XCTest</li>
           <li>XCUITest</li>
           <li>Compose Test</li>
-          <li>Espresso</li>
           <li>JUnit</li>
-          <li>Appium</li>
-          <li>Selenium</li>
+          <li>Unity Testing Framework</li>
           <li>Playwright</li>
           <li>Cypress</li>
         </ul>
@@ -89,8 +85,14 @@ Results-driven Senior SDET with 11 years of experience architecting and maintain
 - Enabled web feature teams to boost the number of regressions detected by 50% through developing and implementing a scalable automation test framework using Cypress.
 - Improved AI threat detection accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
 - Verified the integrity and reliability of alert data pipelines by implementing automated validation frameworks using Pytest, leading to a 15% reduction in data-related production incidents.
-- Ensured 99% uptime and increased deployment frequency by 25% through proactive maintenance of testing infrastructure and seamless integration of automation frameworks into AWS CodePipeline and AWS Device Farm.
+- Architected a test automation infrastructure and framework using Selenium WebDriver, Cucumber BDD, TestNG, and CircleCI which improved test script reusability by 40% and accelerated regression testing cycles by 25%.
 - Streamlined root cause identification and resolution for errors and logs across staging and production environments using Sentry, proactively identifying and addressing critical test gaps.
+
+### Game Development
+- Architected and engineered a C#-based automated testing framework within Unity, enabling scalable end-to-end and integration tests for core game mechanics, which increased test coverage by 40% and reduced critical bugs in pre-release builds by 30%.
+- Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
+- Developed a custom bug reporting tool in Unity that automated the capture of logs and device information for iOS and Android, which accelerated the reporting of impactful bugs by 35% and improved the clarity of bug reports for the development team.
+- Led the black box testing effort across iOS and Android, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs in the first week post-release by 40%.
 
 ### API
 - Achieved a 25% improvement in API response times by conducting targeted performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
