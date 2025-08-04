@@ -1,4 +1,4 @@
-<h1 align="left"> Mobile Engineer 📱 |  Quality Engineering Specialist 👨🏽‍💻 </h1>
+<h1 align="left"> Mobile Engineer |  Quality Engineering Specialist </h1>
 
 ### Hello, 👋🏼 I'm Kel 
 
