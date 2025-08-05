@@ -33,6 +33,7 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
           <li>UIKit</li>
           <li>Jetpack Compose</li>
           <li>Unity</li>
+          <li>React</li>
         </ul>
       </td>
       <td valign="top">
@@ -49,7 +50,7 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
       <td valign="top">
         <ul>
           <li>Firebase Test Lab</li>
-          <li>Firebase Crashlytics</li>
+          <li>Google Cloud Build</li>
           <li>AWS Device Farm</li>
           <li>AWS CodePipeline</li>
           <li>SauceLabs</li>
@@ -57,12 +58,11 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
       </td>
       <td valign="top">
         <ul>
+          <li>Xcode Instruments</li>
+          <li>Android Profiler</li>
+          <li>Postman</li>
           <li>Sentry</li>
           <li>Datadog</li>
-          <li>Xcode Instruments</li>
-          <li>Android Studio Profiler</li>
-          <li>Postman</li>
-          <li>Docker</li>
           <li>PostgreSQL</li>
         </ul>
       </td>
@@ -74,23 +74,24 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
 # Experience
 
 ### 📱 Mobile 
-- Led mobile feature teams to increase code coverage to 70% through leading the design and implementation of scalable automated test frameworks using XCUITest, and Compose Test.
-- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, elevating overall functional test coverage from 0% to 50%.
-- Significantly reduced unit test execution time by 30% and achieved 90% test coverage for user account features by developing automated suites using XCTest and JUnit.
-- Reduced regression issues by 20% by building and maintaining robust mobile testing infrastructure (Appium, TestNG, Firebase Test Lab) that enabled comprehensive automated end-to-end, functional, and regression testing.
-- Identified performance regressions in mobile applications by leveraging Xcode Instruments and Android Studio Profiler to analyze CPU, and memory, resulting in a 15% reduction in ANRs/crashes and ensuring a smoother user experience.
+- Led mobile feature teams to increase code coverage from 10% to 70% by designing and implementing automated test frameworks using XCUITest and Compose Test.
+- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, which reduced build and test execution time by 50%.
+- Optimized manual testing efforts by 30% and achieved 90% test coverage for user account features by developing unit test suites using XCTest and JUnit.
+- Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing regression issues by 20%.
+- Leveraged Xcode Instruments and Android Profiler to analyze CPU, and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
 
 ### 🕸️ Web
-- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing a scalable automation test framework using Cypress.
-- Spearheaded the improvement of AI threat detection for distributed systems accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
-- Architected a test automation infrastructure and framework using Selenium WebDriver, Cucumber BDD, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
-- Reduced time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
+- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an automation test framework using Cypress.
+- Drove the architecture and implementation of a component level testing framework using React Testing Library and Jest, accelerating UI testing cycles by 40% within a CI/CD pipeline.
+- Architected a test automation infrastructure and framework using Selenium, Cucumber, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
+- Engineered the enhancement of a Pytest framework for AI model testing, implementing new methodologies that increased detection accuracy by 30% for a core product feature.
+- Decreased time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
 ### 🎮 Game Development
-- Architected and engineered a C#-based automated testing framework within Unity, enabling scalable end-to-end and integration tests for core game mechanics, which increased test coverage to 80% and reduced critical bugs in pre-release builds by 30%.
+- Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 30% decrease in critical prerelease bugs.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
-- Developed a custom bug reporting tool in Unity that automated the capture of logs and device information for iOS and Android, which accelerated the reporting of impactful bugs by 35% and improved the clarity of bug reports for the development team.
-- Led the black box testing effort across iOS and Android, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs in the first week post-release by 40%.
+- Developed a custom bug reporting tool to capture logs and device information for iOS and Android devices, which accelerated the reporting of impactful bugs by 35%.
+- Managed the black box testing effort across iOS and Android devices, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs post releases by 40%.
 
 # Stats 📈
 
