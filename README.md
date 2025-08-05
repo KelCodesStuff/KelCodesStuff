@@ -33,8 +33,6 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
           <li>UIKit</li>
           <li>Jetpack Compose</li>
           <li>Unity</li>
-          <li>Tensorflow</li>
-          <li>PyTorch</li>
         </ul>
       </td>
       <td valign="top">
@@ -85,7 +83,6 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
 ### 🕸️ Web
 - Led agile teams in boosting the number of regressions detected by 50% through developing and implementing a scalable automation test framework using Cypress.
 - Spearheaded the improvement of AI threat detection for distributed systems accuracy by 30% by driving the development of a specialized automation testing framework using Pytest.
-- Verified the integrity and reliability of alert data pipelines by implementing automated validation frameworks using Pytest, leading to a 15% reduction in data related production incidents.
 - Architected a test automation infrastructure and framework using Selenium WebDriver, Cucumber BDD, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
 - Reduced time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
