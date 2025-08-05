@@ -78,7 +78,7 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
 - Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, which reduced build and test execution time by 50%.
 - Optimized manual testing efforts by 30% and achieved 90% test coverage for user account features by developing unit test suites using XCTest and JUnit.
 - Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing regression issues by 20%.
-- Leveraged Xcode Instruments and Android Profiler to analyze CPU, and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
+- Leveraged Xcode Instruments and Android Profiler to analyze CPU and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
 
 ### 🕸️ Web
 - Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an automation test framework using Cypress.
