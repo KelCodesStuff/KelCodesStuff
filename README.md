@@ -2,7 +2,7 @@
 
 ### Hello, 👋🏼 I'm Kel 
 
-Lead Software Engineer with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile apps, mobile games, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive engineering strategies that enhance software quality across the SDLC.
+Software Quality Architect with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile apps, mobile games, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive engineering strategies that enhance software quality across the SDLC.
 
 # Skills
 
@@ -81,7 +81,7 @@ Lead Software Engineer with 11 years of experience architecting and maintaining 
 - Leveraged Xcode Instruments and Android Profiler to analyze CPU and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
 
 ### 🕸️ Web
-- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an automation test framework using Cypress.
+- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an test automation framework using Cypress.
 - Drove the architecture and implementation of a component level testing framework using React Testing Library and Jest, accelerating UI testing cycles by 40% within a CI/CD pipeline.
 - Architected a test automation infrastructure and framework using Selenium, Cucumber, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
 - Engineered the enhancement of a Pytest framework for AI model testing, implementing new methodologies that increased detection accuracy by 30% for a core product feature.
