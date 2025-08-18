@@ -1,5 +1,3 @@
-<h1 align="left"> Mobile Engineer |  Quality Engineering Specialist </h1>
-
 ### Hello, 👋🏼 I'm Kel 
 
 Software Quality Architect with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile apps, mobile games, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive engineering strategies that enhance software quality across the SDLC.
