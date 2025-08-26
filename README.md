@@ -85,7 +85,7 @@ Software Quality Architect with 11 years of experience architecting and maintain
 - Engineered the enhancement of a Pytest framework for AI model testing, implementing new methodologies that increased detection accuracy by 30% for a core product feature.
 - Decreased time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
-### 🎮 Game Development
+### 🎮 Games
 - Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 30% decrease in critical prerelease bugs.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
 - Developed a custom bug reporting tool to capture logs and device information for iOS and Android devices, which accelerated the reporting of impactful bugs by 35%.
