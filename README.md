@@ -88,6 +88,7 @@ Software Quality Architect with 11 years of experience architecting and maintain
 ### 🎮 Games
 - Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 30% decrease in critical prerelease bugs.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
+- Designed and implemented a graphics testing framework within Unity, reducing manual testing effort by 60% and accelerating the release cycle for new shader and rendering pipeline features.
 - Developed a custom bug reporting tool to capture logs and device information for iOS and Android devices, which accelerated the reporting of impactful bugs by 35%.
 - Managed the black box testing effort across iOS and Android devices, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs post releases by 40%.
 
