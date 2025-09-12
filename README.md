@@ -97,13 +97,7 @@ As a Software Quality Architect with 11 years of experience, I design and mainta
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelCodesStuff&theme=gotham)
 
-# Social
-
-<p align="left">
-  <a href="https://linkedin.com/in/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/linkedin.png"/> </a>
-  <a href="https://twitter.com/kelcodesstuff" > <img align="center" src="https://img.icons8.com/color/50/twitter.png"/> </a>
-  <a href="https://twitch.com/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/twitch.png"/> </a>
-</p>
-
+<p align="center">
 <img width="800" height="600" alt="1" src="https://github.com/user-attachments/assets/ce81f05b-d47c-4b37-87d3-99f6c298d782" />
+</p>
 
