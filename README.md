@@ -1,6 +1,6 @@
 ### Hello, 👋🏼 I'm Kel 
 
-Software Quality Architect with 11 years of experience architecting and maintaining scalable test automation frameworks and testing infrastructure for mobile apps, mobile games, and web applications. Proficient in testing methodologies, including functional, regression, performance, end-to-end, and adept at implementing TDD and BDD principles. Proven ability to implement comprehensive engineering strategies that enhance software quality across the SDLC.
+As a Software Quality Architect with 11 years of experience, I design and maintain robust test automation frameworks and infrastructure for APIs, mobile, and web applications, enabling teams to deliver high-quality products. By implementing TDD/BDD methodologies, I lead comprehensive engineering strategies that decrease critical production bugs by 40% across the SDLC.
 
 # Skills
 
