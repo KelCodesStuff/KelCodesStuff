@@ -2,6 +2,7 @@
 
 As a Software Quality Architect with 11 years of experience, I design and maintain robust test automation frameworks and infrastructure for APIs, mobile, and web applications, enabling teams to deliver high-quality products. By implementing TDD/BDD methodologies, I lead comprehensive engineering strategies that decrease critical production bugs by 40% across the SDLC.
 
+
 # Skills
 
 <table style="table-layout: fixed; width: 100%;">
@@ -103,3 +104,6 @@ As a Software Quality Architect with 11 years of experience, I design and mainta
   <a href="https://twitter.com/kelcodesstuff" > <img align="center" src="https://img.icons8.com/color/50/twitter.png"/> </a>
   <a href="https://twitch.com/kelcodes" > <img align="center" src="https://img.icons8.com/color/50/twitch.png"/> </a>
 </p>
+
+<img width="800" height="600" alt="1" src="https://github.com/user-attachments/assets/ce81f05b-d47c-4b37-87d3-99f6c298d782" />
+
