@@ -76,7 +76,7 @@ I'm a Software Quality Architect with a specialization in designing and scalin
 - Led mobile feature teams to increase code coverage from 10% to 70% by designing and implementing automated test frameworks using XCUITest and Compose Test.
 - Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, which reduced build and test execution time by 50%.
 - Optimized manual testing efforts by 30% and achieved 90% test coverage for user account features by developing unit test suites using XCTest and JUnit.
-- Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing prerelease issues by 20%.
+- Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing issues by 20%.
 - Leveraged Xcode Instruments and Android Profiler to analyze CPU and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
 
 ### 🕸️ Web
@@ -87,7 +87,7 @@ I'm a Software Quality Architect with a specialization in designing and scalin
 - Decreased time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
 ### 🎮 Games
-- Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 30% decrease in critical prerelease bugs.
+- Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 40% decrease in critical production issues.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
 - Designed and implemented a graphics testing framework within Unity, reducing manual testing effort by 60% and accelerating the release cycle for new shader and rendering pipeline features.
 - Developed a custom bug reporting tool to capture logs and device information for iOS and Android devices, which accelerated the reporting of impactful bugs by 35%.
