@@ -1,7 +1,8 @@
 ### Hello, I'm Kel 👋🏼
 
-I'm a Software Quality Architect with a specialization in designing and scaling test automation frameworks. Over my 11-year career, I have architected comprehensive testing infrastructure for mobile, web, and API platforms within SaaS and Cloud environments. I lead the implementation of TDD/BDD methodologies, which enable engineering teams to deliver high-quality products and decrease critical production issues by over 40% across the software development lifecycle.
+Software Quality Architect specializing in the design and scaling of test automation frameworks for mobile, web, and API platforms in SaaS and Cloud environments. Leads the adoption of TDD/BDD methodologies that enable engineering teams to deliver high-quality products and decrease critical production issues by over 40%.
 
+In my spare time, I apply my expertise to open-source projects, focusing on improving Unit/UI testing and development tasks like implementing bug fixes.
 
 # Skills
 
@@ -72,28 +73,40 @@ I'm a Software Quality Architect with a specialization in designing and scalin
 
 # Experience
 
-### 📱 Mobile 
+### Mobile 
 - Led mobile feature teams to increase code coverage from 10% to 70% by designing and implementing automated test frameworks using XCUITest and Compose Test.
 - Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, which reduced build and test execution time by 50%.
 - Optimized manual testing efforts by 30% and achieved 90% test coverage for user account features by developing unit test suites using XCTest and JUnit.
 - Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing issues by 20%.
 - Leveraged Xcode Instruments and Android Profiler to analyze CPU and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
 
-### 🕸️ Web
+### Web
 - Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an test automation framework using Cypress.
 - Drove the architecture and implementation of a component level testing framework using React Testing Library and Jest, accelerating UI testing cycles by 40% within a CI/CD pipeline.
 - Architected a test automation infrastructure and framework using Selenium, Cucumber, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
 - Engineered the enhancement of a Pytest framework for AI model testing, implementing new methodologies that increased detection accuracy by 30% for a core product feature.
 - Decreased time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
 
-### 🎮 Games
+### Games
 - Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 40% decrease in critical production issues.
 - Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
 - Designed and implemented a graphics testing framework within Unity, reducing manual testing effort by 60% and accelerating the release cycle for new shader and rendering pipeline features.
 - Developed a custom bug reporting tool to capture logs and device information for iOS and Android devices, which accelerated the reporting of impactful bugs by 35%.
 - Managed the black box testing effort across iOS and Android devices, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs post releases by 40%.
 
-# Stats 📈
+# Open Source Contributions
+
+### Wikipedia for iOS:
+- Authored new unit and UI tests to validate functionality in core modules.
+- Contributed bug fixes to address reported issues, improving the overall reliability of the application.
+
+### Firefox for iOS:
+
+- Developed and maintained unit and UI tests for key application features to improve code quality and prevent regressions.
+- Implemented bug fixes related to search to enhance application stability and user experience.
+
+
+# Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelCodesStuff&theme=gotham)
 
