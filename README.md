@@ -1,8 +1,8 @@
 ### Hello, I'm Kel 👋🏼
 
-Software Quality Architect specializing in the design and scaling of test automation frameworks for mobile, web, and API platforms in SaaS and Cloud environments. Leads the adoption of TDD/BDD methodologies that enable engineering teams to deliver high-quality products and decrease critical production issues by over 40%.
+Software Quality Architect specializing in the design and scaling of test automation frameworks and infrastructure for mobile and web platforms in SaaS and Cloud environments. Leads the adoption of TDD/BDD methodologies that enable teams to deliver high-quality products. Adept at defining engineering strategies that accelerate release cycles and decrease critical production issues by over 40%.
 
-In my spare time, I apply my expertise to open-source projects, focusing on improving Unit/UI testing and development tasks like implementing bug fixes.
+Active contributor to open-source projects with a focus on enhancing Unit/UI testing and bug-fix implementation.
 
 # Skills
 
