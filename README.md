@@ -60,10 +60,9 @@ Active contributor to open-source mobile projects, delivering enhancements to Un
         <ul>
           <li>Xcode Instruments</li>
           <li>Android Profiler</li>
-          <li>Postman</li>
           <li>Sentry</li>
           <li>Datadog</li>
-          <li>PostgreSQL</li>
+          <li>Postman</li>
         </ul>
       </td>
     </tr>
