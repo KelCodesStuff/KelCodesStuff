@@ -1,6 +1,6 @@
 ### Hello, I'm Kel 👋🏼
 
-Software Architect specializing in the design and scaling of test automation infrastructure for mobile, web, and distributed data platforms. Expert in engineering testing frameworks that validate ML model accuracy, and distributed system resilience. Partners with Engineering and DevOps teams to drive TDD/BDD adoption, integrate quality gates into CI/CD pipelines, and leverage telemetry for data-driven strategies. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
+Software Architect specializing in the design and scaling of test automation infrastructure for mobile, web, and data platforms. Expert in engineering testing frameworks that validate ML model accuracy, and distributed system resilience. Partners with Engineering and DevOps teams to drive TDD/BDD adoption, integrate quality gates into CI/CD pipelines, and leverage telemetry for data-driven strategies. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
 
 Active contributor to open-source projects, delivering enhancements to Unit/UI testing and core logic fixes.
 
