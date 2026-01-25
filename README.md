@@ -1,69 +1,66 @@
 ### Hello, I'm Kel 👋🏼
 
-Software Architect specializing in the design and scaling of test automation infrastructure for mobile and web platforms in SaaS/Cloud environments. Collaborates with DevOps and Development teams to integrate quality gates into CI/CD pipelines and shift testing left to accelerate release velocity. Leads the cross-functional adoption of TDD/BDD methodologies to align engineering workflows and improve code maintainability. Expert in leveraging telemetry to define data-driven strategies that reduce critical production issues by over 40%.
+Software Architect specializing in the design and scaling of test automation infrastructure for mobile, web, and distributed data platforms. Expert in engineering testing frameworks that validate ETL integrity, ML model accuracy, and distributed system resilience. Partners with Engineering and DevOps teams to drive TDD/BDD adoption, integrate quality gates into CI/CD pipelines, and leverage telemetry for data-driven strategies. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
 
-Active contributor to open-source mobile projects, delivering enhancements to Unit/UI testing and core logic fixes.
+Active contributor to open-source projects, delivering enhancements to Unit/UI testing and core logic fixes.
 
 # Skills
 
 <table style="table-layout: fixed; width: 100%;">
   <thead>
     <tr>
-      <th width="20%">Programming Languages</th>
-      <th width="20%">Development Frameworks</th>
-      <th width="20%">Testing Frameworks</th>
-      <th width="20%">Cloud Services</th>
-      <th width="20%">Tools</th>
+      <th width="16%">Programming Languages</th>
+      <th width="16%">Development & Testing</th>
+      <th width="16%">Data & ML</th>
+      <th width="16%">Cloud Services</th>
+      <th width="16%">Tools</th>
+      <th width="16%">Observability</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        <ul>
-          <li>Swift</li>
-          <li>Kotlin</li>
-          <li>C#</li>
-          <li>Python</li>
-          <li>TypeScript</li>
-        </ul>
+        Swift <br/>
+        Kotlin <br/>
+        C# <br/>
+        Python <br/>
+        TypeScript
       </td>
       <td valign="top">
-        <ul>
-          <li>SwiftUI</li>
-          <li>UIKit</li>
-          <li>Jetpack Compose</li>
-          <li>Unity</li>
-          <li>React</li>
-        </ul>
+        SwiftUI <br/>
+        UIKit <br/>
+        XCTest <br/>
+        XCUITest <br/>
+        Pytest <br/>
+        JUnit <br/>
+        Playwright <br/>
+        Cypress <br/>
+        Chaos Mesh <br/>
+        Gremlin
       </td>
       <td valign="top">
-        <ul>
-          <li>XCTest</li>
-          <li>XCUITest</li>
-          <li>Compose Test</li>
-          <li>JUnit</li>
-          <li>Unity Testing Framework</li>
-          <li>Playwright</li>
-          <li>Cypress</li>
-        </ul>
+        Snowflake <br/>
+        Databricks <br/>
+        Kafka <br/>
+        PostgreSQL
       </td>
       <td valign="top">
-        <ul>
-          <li>Firebase Test Lab</li>
-          <li>Google Cloud Build</li>
-          <li>AWS Device Farm</li>
-          <li>AWS CodePipeline</li>
-          <li>SauceLabs</li>
-        </ul>
+        Firebase Test Lab <br/>
+        Google Cloud Build <br/>
+        AWS Device Farm <br/>
+        AWS CodePipeline <br/>
+        SauceLabs
       </td>
       <td valign="top">
-        <ul>
-          <li>Xcode Instruments</li>
-          <li>Android Profiler</li>
-          <li>Sentry</li>
-          <li>Datadog</li>
-          <li>Postman</li>
-        </ul>
+        Xcode Instruments <br/>
+        Android Profiler <br/>
+        Docker <br/>
+        Kubernetes <br/>
+        Terraform
+      </td>
+      <td valign="top">
+        Sentry <br/>
+        Datadog
       </td>
     </tr>
   </tbody>
@@ -72,26 +69,26 @@ Active contributor to open-source mobile projects, delivering enhancements to Un
 
 # Experience
 
+### Data
+- Architected a scalable Pytest framework to validate ML model performance and data resilience against adversarial inputs, resulting in a 32% increase in threat detection accuracy.
+- Engineered a data validation framework using Python and Snowflake to verify ETL pipeline integrity, automating checks for schema drift and null-value anomalies, which reduced downstream reporting errors by 20%.
+- Designed a Chaos Mesh testing strategy using Go to validate fault tolerance across distributed systems, reducing incidents caused by network partitioning and node failures by 25%.
+- Pioneered a shift-left testing strategy by integrating automated gates into CI/CD pipelines, blocking regressions and reducing post-release issues by 37%.
+
 ### Mobile 
-- Led mobile feature teams to increase code coverage from 10% to 70% by designing and implementing automated test frameworks using XCUITest and Compose Test.
-- Pioneered end-to-end and integration test automation for mobile applications using XCUITest and Espresso, which reduced build and test execution time by 50%.
-- Optimized manual testing efforts by 30% and achieved 90% test coverage for user account features by developing unit test suites using XCTest and JUnit.
-- Architected the mobile testing infrastructure using Appium, TestNG, and Firebase Test Lab, enabling automated end-to-end, functional, and regression testing and reducing issues by 20%.
-- Leveraged Xcode Instruments and Android Profiler to analyze CPU and memory usage and identify performance issues in mobile applications, resulting in a 15% reduction in ANRs/crashes and a smoother user experience.
+- Drove a 48% increase in regression detection by designing, and leading the feature team adoption of UI test automation frameworks using XCUITest and Espresso.
+- Halved build and test execution time by being the first to establish end-to-end and integration automation tests for mobile applications using XCUITest and Espresso.
+- Minimized manual testing efforts by 28% while achieving 88% coverage for user account features by developing comprehensive unit test suites with XCTest and JUnit.
+- Mitigated mobile application ANRs and crashes by 15% by analyzing CPU and memory usage with Xcode Instruments and Android Profiler to identify and fix key performance issues.
+- Decreased critical post-release bugs by 41% by managing the iOS and Android black box testing effort and prioritizing test cases based on user feedback and telemetry data.
 
 ### Web
-- Led agile teams in boosting the number of regressions detected by 50% through developing and implementing an test automation framework using Cypress.
-- Drove the architecture and implementation of a component level testing framework using React Testing Library and Jest, accelerating UI testing cycles by 40% within a CI/CD pipeline.
-- Architected a test automation infrastructure and framework using Selenium, Cucumber, TestNG, and CircleCI which accelerated regression testing cycles by 25%.
-- Engineered the enhancement of a Pytest framework for AI model testing, implementing new methodologies that increased detection accuracy by 30% for a core product feature.
-- Decreased time-to-resolution for production errors by 30% by leveraging Sentry for real-time error tracking, which proactively identified critical test gaps and streamlined root cause analysis.
+- Architected and stabilized the test automation infrastructure using Playwright and CircleCI, restructuring legacy processes to increase release velocity by 35% and drive Coveralls coverage to 73%.
+- Led agile teams in boosting the number of regressions detected by 54% through developing and implementing a test automation framework using Playwright.
+- Slashed production error resolution time by 15% using Datadog and Sentry to streamline root cause analysis and expose critical gaps in test coverage.
+- Achieved a 25% improvement in API reliability by conducting performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
 
-### Games
-- Strategically leveraged the Unity Test Framework to create Edit Mode and Play Mode tests for core gameplay mechanics, resulting in an 80% increase in test coverage and a 40% decrease in critical production issues.
-- Drove the integration of automated performance tests using Unity Test Runner and Firebase Test Lab, identifying and resolving a 15% drop in average frame rate and a 20% increase in load times across different device types.
-- Designed and implemented a graphics testing framework within Unity, reducing manual testing effort by 60% and accelerating the release cycle for new shader and rendering pipeline features.
-- Managed the black box testing effort across iOS and Android devices, prioritizing test cases based on player feedback and telemetry data, which reduced critical user reported bugs post releases by 40%.
-
+  
 # Open Source Contributions
 
 ### Wikipedia for iOS:
@@ -109,6 +106,6 @@ Active contributor to open-source mobile projects, delivering enhancements to Un
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelCodesStuff&theme=gotham)
 
 <p align="center">
-<img width="800" height="600" alt="1" src="https://github.com/user-attachments/assets/ce81f05b-d47c-4b37-87d3-99f6c298d782" />
+  <img width="2752" height="1536" alt="CI-CD" src="https://github.com/user-attachments/assets/8a1c5689-f224-4b69-9710-427c52c3e044" />
 </p>
 
