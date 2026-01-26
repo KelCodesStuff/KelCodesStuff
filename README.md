@@ -27,12 +27,12 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
       </td>
       <td valign="top">
         SwiftUI <br/>
-        Jetpack Compose <br/>
+        Jetpack&nbsp;Compose <br/>
         XCTest/XCUITest <br/>
         JUnit <br/>
         Pytest <br/>
         Playwright <br/>
-        Chaos Mesh <br/>
+        Chaos&nbsp;Mesh <br/>
         Gremlin
       </td>
       <td valign="top">
@@ -41,22 +41,22 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
         Spark <br/>
         Pandas <br/> 
         NumPy <br/>
-        Kafka <br/>
-        PostgreSQL
+        Kafka
       </td>
       <td valign="top">
-        Xcode Instruments <br/>
-        Android Profiler <br/>
+        Xcode&nbsp;Instruments <br/>
+        Android&nbsp;Profiler <br/>
         Docker <br/>
         Kubernetes <br/>
         Terraform
       </td>
       <td valign="top">
-        Firebase Test Lab <br/>
-        Google Cloud Build <br/>
-        AWS Device Farm <br/>
-        AWS CodePipeline <br/>
-        SauceLabs
+        Firebase&nbsp;Test&nbsp;Lab <br/>
+        Google&nbsp;Cloud&nbsp;Build <br/>
+        Google&nbsp;Cloud&nbsp;Deploy <br/>
+        AWS&nbsp;Device&nbsp;Farm <br/>
+        AWS&nbsp;CodeBuild <br/>
+        AWS&nbsp;CodeDeploy
       </td>
       <td valign="top">
         Sentry <br/>
