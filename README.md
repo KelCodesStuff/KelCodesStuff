@@ -12,8 +12,8 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
       <th width="16%">Programming Languages</th>
       <th width="16%">Development & Testing</th>
       <th width="16%">Data & ML</th>
-      <th width="16%">Cloud Services</th>
       <th width="16%">Tools</th>
+      <th width="16%">Cloud Services</th>
       <th width="16%">Observability</th>
     </tr>
   </thead>
@@ -22,34 +22,27 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
       <td valign="top">
         Swift <br/>
         Kotlin <br/>
-        C# <br/>
         Python <br/>
         TypeScript
       </td>
       <td valign="top">
         SwiftUI <br/>
-        UIKit <br/>
-        XCTest <br/>
-        XCUITest <br/>
-        Pytest <br/>
+        Jetpack Compose <br/>
+        XCTest/XCUITest <br/>
         JUnit <br/>
+        Pytest <br/>
         Playwright <br/>
-        Cypress <br/>
         Chaos Mesh <br/>
         Gremlin
       </td>
       <td valign="top">
-        Snowflake <br/>
         Databricks <br/>
+        Snowflake <br/>
+        Spark <br/>
+        Pandas <br/> 
+        NumPy <br/>
         Kafka <br/>
         PostgreSQL
-      </td>
-      <td valign="top">
-        Firebase Test Lab <br/>
-        Google Cloud Build <br/>
-        AWS Device Farm <br/>
-        AWS CodePipeline <br/>
-        SauceLabs
       </td>
       <td valign="top">
         Xcode Instruments <br/>
@@ -57,6 +50,13 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
         Docker <br/>
         Kubernetes <br/>
         Terraform
+      </td>
+      <td valign="top">
+        Firebase Test Lab <br/>
+        Google Cloud Build <br/>
+        AWS Device Farm <br/>
+        AWS CodePipeline <br/>
+        SauceLabs
       </td>
       <td valign="top">
         Sentry <br/>
