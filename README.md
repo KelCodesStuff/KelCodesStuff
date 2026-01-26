@@ -73,7 +73,6 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 - Architected a scalable Pytest framework to validate ML model performance and data resilience against adversarial inputs, resulting in a 32% increase in threat detection accuracy.
 - Engineered a data validation framework using Python and Snowflake to verify ETL pipeline integrity, automating checks for schema drift and null-value anomalies, which reduced downstream reporting errors by 20%.
 - Designed a Chaos Mesh testing strategy using Go to validate fault tolerance across distributed systems, reducing incidents caused by network partitioning and node failures by 25%.
-- Pioneered a shift-left testing strategy by integrating automated gates into CI/CD pipelines, blocking regressions and reducing post-release issues by 37%.
 
 ### Mobile 
 - Drove a 48% increase in regression detection by designing, and leading the feature team adoption of UI test automation frameworks using XCUITest and Espresso.
@@ -86,6 +85,7 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 - Architected and stabilized the test automation infrastructure using Playwright and CircleCI, restructuring legacy processes to increase release velocity by 35% and drive Coveralls coverage to 73%.
 - Led agile teams in boosting the number of regressions detected by 54% through developing and implementing a test automation framework using Playwright.
 - Slashed production error resolution time by 15% using Datadog and Sentry to streamline root cause analysis and expose critical gaps in test coverage.
+- Pioneered a shift-left testing strategy by integrating automated gates into CI/CD pipelines, blocking regressions and reducing post-release issues by 37%.
 - Achieved a 25% improvement in API reliability by conducting performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
 
   
