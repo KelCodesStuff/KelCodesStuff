@@ -1,6 +1,8 @@
 ### Hello, I'm Kel 👋🏼
 
-Software Architect specializing in the design and scaling of test automation infrastructure for mobile, web, and data platforms. Expert in engineering testing frameworks that validate ML model accuracy, and distributed system resilience. Partners with Engineering and DevOps teams to drive TDD/BDD adoption, integrate quality gates into CI/CD pipelines, and leverage telemetry for data-driven strategies. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
+Software Architect with 12 years of experience specializing in the design and scaling of test automation infrastructure for mobile and web platforms in cloud environments. Expert in engineering testing frameworks that validate ML model accuracy, and distributed system resilience. 
+
+Proficient in driving Shift-Left strategies and TDD methodologies that ensure data integrity in high-throughput pipelines. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
 
 Active contributor to open-source projects, delivering enhancements to Unit/UI testing and core logic fixes.
 
@@ -27,13 +29,11 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
       </td>
       <td valign="top">
         SwiftUI <br/>
-        Jetpack&nbsp;Compose <br/>
+        Metal <br/>
         XCTest/XCUITest <br/>
         JUnit <br/>
         Pytest <br/>
         Playwright <br/>
-        Chaos&nbsp;Mesh <br/>
-        Gremlin
       </td>
       <td valign="top">
         Databricks <br/>
@@ -41,7 +41,6 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
         Spark <br/>
         Pandas <br/> 
         NumPy <br/>
-        Kafka
       </td>
       <td valign="top">
         Xcode&nbsp;Instruments <br/>
@@ -70,16 +69,15 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 # Experience
 
 ### Data
-- Architected a scalable Pytest framework to validate ML model performance and data resilience against adversarial inputs, resulting in a 32% increase in threat detection accuracy.
-- Engineered a data validation framework using Python and Snowflake to verify ETL pipeline integrity, automating checks for schema drift and null-value anomalies, which reduced downstream reporting errors by 20%.
-- Designed a Chaos Mesh testing strategy using Go to validate fault tolerance across distributed systems, reducing incidents caused by network partitioning and node failures by 25%.
+- Architected a scalable Pytest framework to validate AI/ML model performance, utilizing drift detection to identify data degradation and adversarial inputs, resulting in a 33% increase in threat detection accuracy.
+- Engineered a data validation framework using Python and Snowflake to verify ETL pipeline integrity, automating checks for data freshness and ingestion latency, accelerating the availability of trusted data by 20%.
 
 ### Mobile 
-- Drove a 48% increase in regression detection by designing, and leading the feature team adoption of UI test automation frameworks using XCUITest and Espresso.
-- Halved build and test execution time by being the first to establish end-to-end and integration automation tests for mobile applications using XCUITest and Espresso.
-- Minimized manual testing efforts by 28% while achieving 88% coverage for user account features by developing comprehensive unit test suites with XCTest and JUnit.
-- Mitigated mobile application ANRs and crashes by 15% by analyzing CPU and memory usage with Xcode Instruments and Android Profiler to identify and fix key performance issues.
-- Decreased critical post-release bugs by 41% by managing the iOS and Android black box testing effort and prioritizing test cases based on user feedback and telemetry data.
+- Engineered automated profiling workflows using Xcode Instruments and the Metal System Trace template to diagnose GPU rendering bottlenecks, reducing average frame intervals by 14%.
+- Validated hardware accelerated rendering pipelines by analyzing Metal Performance HUD metrics like FPS and GPU time, ensuring stable performance across multiple iOS devices and OS versions.
+- Mitigated mobile application ANRs and crashes by 15% by analyzing and profiling usage scenarios with Xcode Instruments and Android Profiler to identify and fix key performance bottlenecks.
+- Drove a 53% increase in regressions detected by designing, and leading the feature team adoption of UI test automation using XCUITest and Espresso.
+- Decreased critical post-release bugs by 41% by managing the iOS and Android grey/black box testing effort and prioritizing test cases based on user feedback and telemetry data.
 
 ### Web
 - Architected and stabilized the test automation infrastructure using Playwright and CircleCI, restructuring legacy processes to increase release velocity by 35% and drive Coveralls coverage to 73%.
