@@ -95,14 +95,10 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 
 ### Firefox for iOS:
 
-- Developed and maintained unit and UI tests for key application features to improve code quality and prevent regressions.
+- Developed unit and UI tests for key application features to improve code quality and prevent regressions.
 - Implemented bug fixes related to search to enhance application stability and user experience.
 
-
-# Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelCodesStuff&theme=gotham)
-
+### 
 <p align="center">
   <img width="2752" height="1536" alt="CI-CD" src="https://github.com/user-attachments/assets/8a1c5689-f224-4b69-9710-427c52c3e044" />
 </p>
