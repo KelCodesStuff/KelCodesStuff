@@ -1,8 +1,8 @@
 ### Hello, I'm Kel 👋🏼
 
-Software Architect with 12 years of experience specializing in the design and scaling of test automation infrastructure for mobile and web platforms in cloud environments. Expert in engineering testing frameworks that validate ML model accuracy, and distributed system resilience. 
+Software Architect with 12 years of experience in test automation framework architecture for complex distributed systems. Expert in engineering scalable testing solutions that ensure data integrity in high-throughput pipelines. 
 
-Proficient in driving Shift-Left strategies and TDD methodologies that ensure data integrity in high-throughput pipelines. Proven track record of accelerating release velocity and reducing critical production issues by over 40%.
+Adept at leading Shift Left strategies and TDD methodologies, to drive comprehensive test coverage. Proven track record of accelerating release velocity and reducing critical post release bugs by over 40%
 
 Active contributor to open-source projects, delivering enhancements to Unit/UI testing and core logic fixes.
 
@@ -12,7 +12,7 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
   <thead>
     <tr>
       <th width="16%">Programming Languages</th>
-      <th width="16%">Development & Testing</th>
+      <th width="16%">Testing Frameworks</th>
       <th width="16%">Data & ML</th>
       <th width="16%">Tools</th>
       <th width="16%">Cloud Services</th>
@@ -22,18 +22,19 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
   <tbody>
     <tr>
       <td valign="top">
-        Swift <br/>
-        Kotlin <br/>
         Python <br/>
-        TypeScript
+        Java <br/>
+        TypeScript <br/>
+        Swift <br/>
+        Kotlin
       </td>
       <td valign="top">
-        SwiftUI <br/>
-        Metal <br/>
-        XCTest/XCUITest <br/>
-        JUnit <br/>
         Pytest <br/>
+        JUnit <br/>
         Playwright <br/>
+        Cypress <br/>
+        XCTest <br/>
+        XCUITest <br/>
       </td>
       <td valign="top">
         Databricks <br/>
@@ -46,16 +47,14 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
         Xcode&nbsp;Instruments <br/>
         Android&nbsp;Profiler <br/>
         Docker <br/>
-        Kubernetes <br/>
-        Terraform
+        Kubernetes
       </td>
       <td valign="top">
         Firebase&nbsp;Test&nbsp;Lab <br/>
         Google&nbsp;Cloud&nbsp;Build <br/>
         Google&nbsp;Cloud&nbsp;Deploy <br/>
-        AWS&nbsp;Device&nbsp;Farm <br/>
-        AWS&nbsp;CodeBuild <br/>
-        AWS&nbsp;CodeDeploy
+        Jenkins <br/>
+        GitHub&nbsp;Actions
       </td>
       <td valign="top">
         Sentry <br/>
@@ -68,9 +67,12 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 
 # Experience
 
-### Data
-- Architected a scalable Pytest framework to validate AI/ML model performance, utilizing drift detection to identify data degradation and adversarial inputs, resulting in a 33% increase in threat detection accuracy.
-- Engineered a data validation framework using Python and Snowflake to verify ETL pipeline integrity, automating checks for data freshness and ingestion latency, accelerating the availability of trusted data by 20%.
+### Cybersecurity
+- Architected a Python framework to validate the AI/ML detection engine, utilizing drift detection to identify data degradation and adversarial inputs, resulting in a 33% increase in threat detection accuracy.
+- Engineered a Python data validation framework to ensure the reliability of continuous data ingestion from distributed endpoints, automating data freshness checks and increasing trusted data availability by 20%.
+- Established a formalized engineering strategy in a fast-paced startup environment, aligning Product, Engineering, and stakeholders on critical reliability metrics to guide automation priorities.
+- Slashed production error resolution time by 15% using Datadog and Sentry to streamline root cause analysis and identify critical gaps in test coverage.
+- Achieved a 27% improvement in API reliability by conducting performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
 
 ### Mobile 
 - Engineered automated profiling workflows using Xcode Instruments and the Metal System Trace template to diagnose GPU rendering bottlenecks, reducing average frame intervals by 14%.
@@ -82,10 +84,7 @@ Active contributor to open-source projects, delivering enhancements to Unit/UI t
 ### Web
 - Architected and stabilized the test automation infrastructure using Playwright and CircleCI, restructuring legacy processes to increase release velocity by 35% and drive Coveralls coverage to 73%.
 - Led agile teams in boosting the number of regressions detected by 54% through developing and implementing a test automation framework using Playwright.
-- Slashed production error resolution time by 15% using Datadog and Sentry to streamline root cause analysis and expose critical gaps in test coverage.
 - Pioneered a shift-left testing strategy by integrating automated gates into CI/CD pipelines, blocking regressions and reducing post-release issues by 37%.
-- Achieved a 25% improvement in API reliability by conducting performance and load testing with Locust for critical REST and GraphQL endpoints, effectively identifying and resolving bottlenecks.
-
   
 # Open Source Contributions
 
