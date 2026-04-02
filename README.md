@@ -1,17 +1,30 @@
 ### Hello, I'm Kel 👋🏼
 
-Mobile Infrastructure Engineer with 12 years of experience designing and scaling high-availability infrastructure. Adept at tackling complex performance bottlenecks in distributed systems and ensuring peak reliability through comprehensive telemetry and observability platforms. Proven success in streamlining delivery pipelines, enhancing testing frameworks, and elevating overall system health by 30%.
+I am a Senior Infrastructure Engineer with 12 years of experience. I specialize in bridging the gap between core backend systems and complex native mobile ecosystems, focusing on high-performance build architecture and scalable CI/CD pipelines.
 
-# Skills
+## What I Build
+* Deterministic, parallelized build systems for large-scale codebases.
+* Ephemeral, containerized test environments.
+* Infrastructure as code for dynamic cloud provisioning.
+* Unified telemetry pipelines for distributed backend systems and native mobile applications.
+
+**Core Stack:** Bazel | Buildkite | Kubernetes | Terraform | Docker | Python | Swift
+
+## Current Focus
+* **Day Job:** Architecting ephemeral, Docker-based environments and modernizing legacy CI/CD infrastructure to accelerate release velocity.
+* **Open Source:** Contributing to the OpenTelemetry Swift project to advance native mobile observability standards.
+* **Exploring:** Building algorithmic trading bots and exploring quantitative finance models for prediction markets.
+
+## Skills
 
 <table style="table-layout: fixed; width: 100%;">
   <thead>
     <tr>
-      <th width="16%">Programming Languages</th>
-      <th width="16%">Infrastructure</th>
-      <th width="16%">Performance & Profiling</th>
-      <th width="16%">Frameworks</th>
-      <th width="16%">Observability</th>
+      <th width="20%">Programming Languages</th>
+      <th width="20%">Infrastructure</th>
+      <th width="20%">Performance & Profiling</th>
+      <th width="20%">Testing & Automation</th>
+      <th width="20%">Observability</th>
     </tr>
   </thead>
   <tbody>
@@ -26,10 +39,10 @@ Mobile Infrastructure Engineer with 12 years of experience designing and scaling
       <td valign="top">
         Bazel <br/>
         Buildkite <br/>
-        Docker <br/>
         Kubernetes <br/>
-        CircleCI <br/>
-        Google&nbsp;Cloud&nbsp;Platform
+        Terraform <br/>
+        Docker <br/>
+        CircleCI
       </td>
       <td valign="top">
         Xcode&nbsp;Instruments <br/>
@@ -44,6 +57,7 @@ Mobile Infrastructure Engineer with 12 years of experience designing and scaling
         Playwright
       </td>
       <td valign="top">
+        OpenTelemetry <br/>
         Sentry <br/>
         Datadog <br/>
         Grafana <br/>
@@ -52,11 +66,6 @@ Mobile Infrastructure Engineer with 12 years of experience designing and scaling
     </tr>
   </tbody>
 </table>
-
-
-# Experience
-
-
 
 ### 
 <p align="center">
