@@ -1,17 +1,17 @@
 ### Hello, I'm Kel 👋🏼
 
-I am a Senior Infrastructure Engineer with 12 years of experience. I specialize in bridging the gap between core backend systems and complex native mobile ecosystems, focusing on high-performance build architecture and scalable CI/CD pipelines.
+I am a Staff Cloud Infrastructure Engineer with 12 years of experience architecting resilent, secure cloud platforms across AWS and GCP. I specialize in managing immutable infrastructure, data systems, and containerized workloads using Terraform, Kubernetes, and Docker..
 
 ## What I Build
-* Deterministic, parallelized build systems for large-scale codebases.
-* Ephemeral, containerized test environments.
-* Infrastructure as code for dynamic cloud provisioning.
-* Unified telemetry pipelines for distributed backend systems and native mobile applications.
+* Immutable Infrastructure: Automated, ephemeral cloud environments provisioned via Terraform to reduce setup time and ensure consistency.
+* Scalable Architectures: High-performance, containerized deployments managed with Kubernetes (EKS, GKE) and Docker.
+* Developer Tooling & CI/CD: Modernized, parallelized deployment architectures and AI-enabled tooling to accelerate release velocity.
+* Unified Observability: Standardized telemetry pipelines across staging and production to streamline incident response and improve system resilience.
 
-**Core Stack:** Bazel | Buildkite | Kubernetes | Terraform | Docker | Python | Swift
+**Core Stack:** Kubernetes (EKS/GKE)  | Terraform  | Docker  | AWS  | GCP  | Go  | Python
 
 ## Current Focus
-* **Day Job:** Architecting ephemeral, Docker-based environments and modernizing legacy CI/CD infrastructure to accelerate release velocity.
+* **Day Job:** Provisioning automated, ephemeral environments using Terraform and Docker , and migrating legacy build services to dynamically scaled Kubernetes clusters.
 * **Open Source:** Contributing to the OpenTelemetry Swift project to advance native mobile observability standards.
 * **Exploring:** Building algorithmic trading bots and exploring quantitative finance models for prediction markets.
 
@@ -20,48 +20,45 @@ I am a Senior Infrastructure Engineer with 12 years of experience. I specialize 
 <table style="table-layout: fixed; width: 100%;">
   <thead>
     <tr>
-      <th width="20%">Programming Languages</th>
-      <th width="20%">Infrastructure</th>
-      <th width="20%">Performance & Profiling</th>
-      <th width="20%">Testing & Automation</th>
+      <th width="20%">Programming</th>
+      <th width="20%">Cloud & Infrastructure</th>
+      <th width="20%">CI/CD</th>
+      <th width="20%">Databases</th>
       <th width="20%">Observability</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        Python <br/>
-        Go <br/>
-        TypeScript <br/>
-        Swift <br/>
+        Go<br/>
+        Python<br/>
+        Java<br/>
+        Swift<br/>
         Kotlin
       </td>
       <td valign="top">
-        Bazel <br/>
-        Buildkite <br/>
-        Kubernetes <br/>
-        Terraform <br/>
-        Docker <br/>
-        CircleCI
+        AWS<br/>
+        GCP<br/>
+        Kubernetes<br/>
+        Terraform<br/>
+        Docker
       </td>
       <td valign="top">
-        Xcode&nbsp;Instruments <br/>
-        Android&nbsp;Profiler <br/>
-        Pyroscope <br/>
-        Cloud Profiler 
+        Argo CD<br/>
+        CircleCI<br/>
+        Bazel<br/>
+        Buildkite
       </td>
       <td valign="top">
-        Pytest <br/>
-        XCTest <br/>
-        XCUITest <br/>
-        Playwright
+        PostgreSQL<br/>
+        Redis<br/>
+        MongoDB
       </td>
       <td valign="top">
-        OpenTelemetry <br/>
-        Sentry <br/>
-        Datadog <br/>
-        Grafana <br/>
-        Prometheus 
+        Datadog<br/>
+        Sentry<br/>
+        Prometheus<br/>
+        Grafana
       </td>
     </tr>
   </tbody>
