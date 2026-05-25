@@ -1,6 +1,6 @@
 ### Hello, I'm Kel 👋🏼
 
-I am a Staff Cloud Infrastructure Engineer with 12 years of experience architecting resilent, secure cloud platforms across AWS and GCP. I specialize in managing immutable infrastructure, data systems, and containerized workloads using Terraform, Kubernetes, and Docker..
+I'm a Cloud Infrastructure Engineer with 12 years of experience architecting resilent, secure cloud platforms across AWS and GCP. I specialize in managing immutable infrastructure, data systems, and containerized workloads using Terraform, Kubernetes, and Docker.
 
 ## What I Build
 * Immutable Infrastructure: Automated, ephemeral cloud environments provisioned via Terraform to reduce setup time and ensure consistency.
