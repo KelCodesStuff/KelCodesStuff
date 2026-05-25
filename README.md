@@ -8,8 +8,6 @@ I'm a Senior Software Engineer with 12 years of experience architecting resilien
 * **Developer Tooling & CI/CD:** Modernized, parallelized deployment pipelines using Bazel and Buildkite, alongside AI-enabled code review workflows to accelerate release velocity.
 * **Unified Observability:** Standardized, full-stack telemetry pipelines across staging and production to streamline incident response and maximize system uptime.
 
-**Core Stack:** Kubernetes | Terraform | Docker | AWS | GCP | Go | Python | Bash
-
 ## Current Focus
 * **Day Job:** Provisioning automated, ephemeral environments using Terraform and Docker, and migrating legacy build services to dynamically scaled Kubernetes clusters.
 * **Open Source:** Contributing to mobile observability standards and exploring open-source telemetry frameworks.
