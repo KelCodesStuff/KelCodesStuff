@@ -48,6 +48,7 @@ I'm a Senior Software Engineer with 12 years of experience architecting resilien
         Buildkite<br/>
         Bazel<br>
         Kubernetes<br/>
+        Terraform<br/>
         Docker
       </td>
       <td valign="top">
