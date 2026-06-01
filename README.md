@@ -19,9 +19,8 @@ I'm a Senior Software Engineer with 12 years of experience architecting resilien
   <thead>
     <tr>
       <th valign="top">Programming</th>
-      <th valign="top">Cloud & IaC</th>
-      <th valign="top">Containers</th>
-      <th valign="top">CI/CD & Build</th>
+      <th valign="top">Cloud Services</th>
+      <th valign="top">CI/CD & Infrastructure</th>
       <th valign="top">Data Systems</th>
       <th valign="top">Observability</th>
       <th valign="top">AI Tooling</th>
@@ -40,18 +39,16 @@ I'm a Senior Software Engineer with 12 years of experience architecting resilien
       <td valign="top">
         AWS<br/>
         GCP<br/>
-        Terraform
-      </td>
-      <td valign="top">
-        Kubernetes<br/>
-        Docker
+        Digital Ocean
       </td>
       <td valign="top">
         GitHub Actions<br/>
         CircleCI<br/>
         ArgoCD<br/>
         Buildkite<br/>
-        Bazel        
+        Bazel<br>
+        Kubernetes<br/>
+        Docker
       </td>
       <td valign="top">
         PostgreSQL<br/>
