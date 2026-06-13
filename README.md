@@ -1,15 +1,21 @@
 ### Hello, I'm Kel
 
-I'm a Senior Software Engineer with 12 years of experience architecting resilient infrastructure and scalable distributed environments across AWS and GCP. I specialize in managing immutable infrastructure, data systems, and containerized workloads using Terraform, Kubernetes, and Docker.
+I'm a **Senior/Staff Infrastructure Engineer** with 12+ years of experience architecting distributed systems, cloud architectures, and enterprise platform services. I specialize in leveraging **Go, Kubernetes, and Terraform** to modernize cloud footprint strategy, optimize developer velocity, and sustain 99.99% availability via **data-driven SLO management**. 
+
+Aa a collaborative technical leader, I focus on partnering across engineering organizations to align infrastructure strategy with business scale.
+
+---
 
 ## What I Build
-* **Immutable Infrastructure:** Automated, ephemeral cloud environments provisioned using Terraform to eliminate configuration drift and ensure environment consistency.
-* **Scalable Architectures:** High-performance, containerized deployments managed with Kubernetes (EKS, GKE) and Docker.
-* **Developer Tooling & CI/CD:** Modernized, parallelized deployment pipelines using Bazel and Buildkite, alongside AI-enabled code review workflows to accelerate release velocity.
-* **Unified Observability:** Standardized, full-stack telemetry pipelines across staging and production to streamline incident response and maximize system uptime.
+* **High-Scale Distributed Systems:** Re-engineering legacy environments into highly available, resilient cloud architectures across AWS and GCP.
+* **Infrastructure as Code :** Managing immutable, ephemeral environments using Terraform and Docker to eliminate configuration drift.
+* **Developer Tooling & CI/CD:** Modernizing and parallelizing high-throughput deployment pipelines and monorepo build systems to maximize engineering velocity.
+* **Data-Driven Observability:** Architecting robust telemetry pipelines and SLO frameworks to proactively manage error budgets and maximize uptime.
+
+---
 
 ## Current Focus
-* **Day Job:** Provisioning automated, ephemeral environments using Terraform and Docker, and migrating legacy build services to dynamically scaled Kubernetes clusters.
+* **Day Job:** Provisioning automated, ephemeral environments and migrating legacy build services to dynamically scaled Kubernetes clusters.
 * **Open Source:** Contributing to mobile observability standards and exploring open-source telemetry frameworks.
 * **Exploring:** Building algorithmic trading tools and analyzing quantitative probability models for prediction markets.
 
