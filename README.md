@@ -1,21 +1,23 @@
 ### Hello, I'm Kel
 
-I'm a **Senior/Staff Infrastructure Engineer** with 12+ years of experience architecting distributed systems, cloud architectures, and enterprise platform services. I specialize in leveraging **Go, Kubernetes, and Terraform** to modernize cloud footprint strategy, optimize developer velocity, and sustain 99.99% availability via **data-driven SLO management**. 
+I'm a Senior/Staff Software Engineer specializing in software infrastructure, cloud architecture, deployment velocity, and internal developer ecosystems. I bridge the gap between development and operations by building the high-leverage platform architectures that make software delivery fast, reliable, and scalable.
 
-Aa a collaborative technical leader, I focus on partnering across engineering organizations to align infrastructure strategy with business scale.
+With 12+ years of engineering experience, I leverage a modern stack including CircleCI, ArgoCD, Kubernetes, and Terraform to design self-service developer infrastructure, modernize multi-cloud environments across GCP and AWS, and ensure system predictability via data-driven SLO frameworks.
 
 ---
 
-## What I Build
-* **High-Scale Distributed Systems:** Re-engineering legacy environments into highly available, resilient cloud architectures across AWS and GCP.
-* **Infrastructure as Code :** Managing immutable, ephemeral environments using Terraform and Docker to eliminate configuration drift.
-* **Developer Tooling & CI/CD:** Modernizing and parallelizing high-throughput deployment pipelines and monorepo build systems to maximize engineering velocity.
-* **Data-Driven Observability:** Architecting robust telemetry pipelines and SLO frameworks to proactively manage error budgets and maximize uptime.
+## Areas of Expertise
+
+* **CI/CD & Delivery:** Modernizing and parallelizing high-throughput deployment pipelines and monorepo build systems to establish secure, repeatable paths to production.
+* **Test & Ephemeral Infrastructure:** Designing stable, parallelized validation frameworks, automated ephemeral environments, and fast feedback loops to eliminate developer friction.
+* **Cloud & Platform Architecture:** Provisioning immutable, scalable environments across AWS and GCP to eliminate configuration drift and streamline downstream application deployment.
+* **Observability & Telemetry:** Implementing distributed tracing and robust telemetry pipelines to turn complex production environments into highly transparent, easily debugged systems.
 
 ---
 
 ## Current Focus
-* **Day Job:** Provisioning automated, ephemeral environments and migrating legacy build services to dynamically scaled Kubernetes clusters.
+
+* **Day Job:** Migrating legacy build services to dynamically scaled Kubernetes clusters and automating ephemeral testing environments to improve internal developer workflows.
 * **Open Source:** Contributing to mobile observability standards and exploring open-source telemetry frameworks.
 * **Exploring:** Building algorithmic trading tools and analyzing quantitative probability models for prediction markets.
 
