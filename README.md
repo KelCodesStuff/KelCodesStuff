@@ -15,12 +15,6 @@ With 12+ years of engineering experience, I leverage a modern stack including Ci
 
 ---
 
-## Current Focus
-
-* **Day Job:** Migrating legacy build services to dynamically scaled Kubernetes clusters and automating ephemeral testing environments to improve internal developer workflows.
-* **Open Source:** Contributing to mobile observability standards and exploring open-source telemetry frameworks.
-* **Exploring:** Building algorithmic trading tools and analyzing quantitative probability models for prediction markets.
-
 ## Skills
 
 <table style="width: 100%;">
