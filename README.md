@@ -1,32 +1,31 @@
-# Hello, I'm Kel
+# Hello, I'm Kel! 👋🏼
 
-Senior Cloud Infrastructure Engineer with 12+ years of experience building scalable cloud architectures and modernizing software delivery ecosystems across GCP and AWS. Specializes in abstracting cloud infrastructure complexity into standard, self-service developer platforms and AI-assisted workflows that accelerate feature team velocity. Expertise in optimizing build systems, reducing cloud spend, and designing GitOps-driven Kubernetes environments while maintaining high architectural and security standards.
+I am a **Senior Cloud Infrastructure Engineer** with 12+ years of experience building scalable cloud architectures and modernizing software delivery ecosystems across GCP and AWS. 
 
----
-
-### Areas of Expertise
-*   **CI/CD & Delivery:** Modernizing and parallelizing high-throughput deployment pipelines and monorepos to establish secure, repeatable paths to production.
-*   **Developer Ecosystems:** Building self-service internal developer platforms, custom CLI tools, and portal architectures to abstract cloud complexity and increase product engineering autonomy.
-*   **Ephemeral Infrastructure:** Architecting dynamic, pull-request-scoped validation environments and parallel testing clusters to eliminate integration bottlenecks and accelerate feedback loops.
-*   **Cloud & Platform Architecture:** Provisioning immutable, scalable environments across AWS and GCP to eliminate configuration drift.
-*   **Observability & Telemetry:** Building distributed tracing and telemetry pipelines to turn complex production systems into transparent, easily debugged platforms.
+I specialize in abstracting cloud infrastructure complexity into standard, self-service developer platforms and AI-assisted workflows that accelerate feature team velocity. My core expertise lies in optimizing build systems, reducing cloud spend, and designing Kubernetes environments while maintaining high architectural and security standards.
 
 ---
 
-## Featured Project: Production-Grade Trading Infrastructure
-### [Kalshi-Trading-Bot](https://github.com/kelcodesstuff/Kalshi-Trading-Bot)
+## [Kalshi-Trading-Bot](https://github.com/kelcodesstuff/Kalshi-Trading-Bot) Production-Grade Trading Infrastructure
 *A secure, automated blueprint for hosting high-availability, event-driven containerized applications.*
 
-This project demonstrates how to architect, secure, and monitor a continuous algorithmic trading platform in production. Beyond the core trading logic, it serves as a reference architecture for robust infrastructure-as-code (IaC), zero-trust secrets hygiene, and push-based telemetry pipelines.
+A production-grade implementation of an event-driven algorithmic trading bot, designed to serve as a reference architecture for zero-trust cloud infrastructure, automated GitOps delivery pipelines, and real-time observability. Beyond the trading strategy, it demonstrates how to orchestrate state, secrets, and telemetry in a hardened cloud environment.
 
-*   **Infrastructure as Code & Hardened Networking:** Managed via **Terraform** to provision isolated VPC networks, resource tags, and egress-filtered firewalls restricting outbound traffic strictly to DNS, HTTP/S, and NTP boundaries.
+*   **Infrastructure as Code (IaC):** Orchestrated cloud resource deployment programmatically via **Terraform**, enforcing declarative configurations, structural validation checks, and tag-based associations.
+
+*   **Perimeter & Network Security:** Provisioned an isolated **DigitalOcean** VPC network and enforced firewall rules to block unauthorized inbound connections and limit outbound egress strictly to DNS, HTTP/S, and NTP boundaries.
+
 *   **Zero-Trust Secrets Management:** Integrated **Doppler** to inject application secrets and RSA cryptographic credentials directly into container memory at startup, eliminating the need to store plaintext keys or `.env` configs on the host disk.
-*   **Hardened Containers:** Engineered **multi-stage Docker builds** to minimize runtime surface areas, executing services under a low-privilege system user while restricting database and telemetry port bindings to `127.0.0.1`.
-*   **Observability Pipeline:** Configured a local **Grafana Alloy** telemetry collector to scrape application-level Prometheus metrics (API latency histograms, inventory levels, PnL) and remote-write them directly to Grafana Cloud.
-*   **Automated GitOps Pipeline:** Programmed a **GitHub Actions** workflow executing automated testing (`pytest-cov`), terraform validation, security scanning (`tfsec`), image publication to GitHub Container Registry (GHCR), and SSH-based remote deployments.
-*   **Disaster Recovery:** Authored a POSIX-compliant PostgreSQL backup script featuring transaction-consistent dumps, archive verification (`gzip -t`), and self-pruning retention schedules.
 
-**Stack:** Terraform, Docker/Compose, GitHub Actions, Grafana Alloy, Doppler Secrets Manager, PostgreSQL, Python.
+*   **Container Hardening & Least Privilege:** Engineered **multi-stage Docker builds** to minimize runtime surface areas, executing services under a low-privilege system user while restricting database and telemetry port bindings to `127.0.0.1` to prevent public exposure.
+
+*   **Observability Pipeline:** Configured a local **Grafana Alloy** telemetry collector to scrape application-level Prometheus metrics (API latency histograms, inventory levels, PnL) and remote-write them directly to Grafana Cloud.
+
+*   **Automated GitOps Pipeline:** Programmed a **GitHub Actions** workflow executing automated testing (`pytest-cov`), terraform validation, security scanning (`tfsec`), image publication to GitHub Container Registry (GHCR), and SSH-based remote deployments.
+
+*   **Disaster Recovery & Redundancy:** Authored a POSIX-compliant PostgreSQL backup script featuring transaction-consistent dumps and archive verification (`gzip -t`), coupled with automated daily **DigitalOcean** snapshot backups for full-host recovery.
+  
+**Stack:** Terraform, Docker/Compose, GitHub Actions, Grafana Alloy, Doppler Secrets Manager, PostgreSQL, Bash, Python.
 
 ---
 
