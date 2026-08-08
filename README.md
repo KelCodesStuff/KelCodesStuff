@@ -4,15 +4,6 @@ Senior Cloud Infrastructure Engineer with 12+ years of experience building scala
 
 ---
 
-### Areas of Expertise
-*   **CI/CD & Delivery:** Modernizing and parallelizing high-throughput deployment pipelines and monorepos to establish secure, repeatable paths to production.
-*   **Developer Ecosystems:** Building self-service internal developer platforms, custom CLI tools, and portal architectures to abstract cloud complexity and increase product engineering autonomy.
-*   **Ephemeral Infrastructure:** Architecting dynamic, pull-request-scoped validation environments and parallel testing clusters to eliminate integration bottlenecks and accelerate feedback loops.
-*   **Cloud & Platform Architecture:** Provisioning immutable, scalable environments across AWS and GCP to eliminate configuration drift.
-*   **Observability & Telemetry:** Building distributed tracing and telemetry pipelines to turn complex production systems into transparent, easily debugged platforms.
-
----
-
 ## Featured Project: Production-Grade Trading Infrastructure
 ### [Kalshi-Trading-Bot](https://github.com/kelcodesstuff/Kalshi-Trading-Bot)
 *A secure, automated blueprint for hosting high-availability, event-driven containerized applications.*
