@@ -77,10 +77,10 @@ A production-grade implementation of an event-driven algorithmic trading bot, de
         Grafana
       </td>
       <td valign="top">
-        Gemini<br/>
         Claude Code<br/>
-        Agentic Workflows<br/>
-        MCP Servers
+        Gemini API<br/>
+        OpenAI API<br/>
+        Model Context Protocol (MCP)
       </td>
     </tr>
   </tbody>
