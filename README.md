@@ -6,7 +6,7 @@ I specialize in abstracting cloud infrastructure complexity into standard, self-
 
 ---
 
-## [Kalshi-Trading-Bot](https://github.com/kelcodesstuff/Kalshi-Trading-Bot) Production-Grade Trading Infrastructure
+## [Kalshi-Trading-Bot](https://github.com/kelcodesstuff/Kalshi-Trading-Bot) Event-Driven Trading Infrastructure
 *A secure, automated blueprint for hosting high-availability, event-driven containerized applications.*
 
 A production-grade implementation of an event-driven algorithmic trading bot, designed to serve as a reference architecture for zero-trust cloud infrastructure, automated GitOps delivery pipelines, and real-time observability. Beyond the trading strategy, it demonstrates how to orchestrate state, secrets, and telemetry in a hardened cloud environment.
