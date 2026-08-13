@@ -1,9 +1,11 @@
 # Hello, I'm Kel! 👋🏼
 
-I am a **Senior Cloud Infrastructure Engineer** with 12 years in software engineering including 7 years building on GCP and AWS.
+I'm a Senior Software Engineer with 12 years of experience, including 7 years designing cloud architectures on AWS and GCP. I specialize in turning complex infrastructure into resilient, production-ready platforms and Argo CD GitOps workflows that eliminate delivery bottlenecks.
 
-I specialize in abstracting cloud infrastructure complexity into standard, self-service developer platforms and GitOps workflows that accelerate feature team velocity. Expertise in Kubernetes lifecycle, multi-region Terraform design, and Argo CD GitOps, with a security-first approach to secrets management and hardened build pipelines.
-
+### Core Focus
+• **Cloud & Infra:** AWS, GCP, DigitalOcean, Multi-Region Terraform Design  
+• **Orchestration:** Kubernetes, Argo CD (GitOps)  
+• **Delivery & CI/CD:** CircleCI, GitHub Actions, End-to-End Release Automation  
 
 ## Technical Highlights
 
