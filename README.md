@@ -1,11 +1,13 @@
 # Hello, I'm Kel! 👋🏼
 
-I'm a Senior Software Engineer with 12 years of experience, including 7 years designing cloud architectures on AWS and GCP. I specialize in turning complex infrastructure into resilient, production-ready platforms and Argo CD GitOps workflows that eliminate delivery bottlenecks.
+I'm a Senior Software Engineer with 12 years of engineering experience, including 7 years architecting cloud systems, distributed test platforms, and CI/CD pipelines across AWS and GCP. 
 
-### Core Focus
-• **Cloud & Infra:** AWS, GCP, DigitalOcean, Multi-Region Terraform Design  
-• **Orchestration:** Kubernetes, Argo CD (GitOps)  
-• **Delivery & CI/CD:** CircleCI, GitHub Actions, End-to-End Release Automation  
+### Core Expertise
+- **Cloud & Infrastructure:** AWS, GCP, DigitalOcean, Terraform
+- **Orchestration:** Kubernetes (GKE, EKS), Argo CD, GitOps
+- **Delivery & CI/CD:** CircleCI, GitHub Actions, Release Automation
+- **Observability:** Datadog, Prometheus, Grafana, OpenTelemetry, Sentry
+
 
 ## Technical Highlights
 
@@ -13,19 +15,19 @@ I'm a Senior Software Engineer with 12 years of experience, including 7 years de
 
 A production-grade event-driven algorithmic trading bot, designed to serve as a reference architecture for zero-trust cloud infrastructure, automated GitOps delivery pipelines, and real-time observability.
 
-*   **Infrastructure as Code (IaC):** Orchestrated cloud resource deployment programmatically via **Terraform**, enforcing declarative configurations, structural validation checks, and tag-based associations.
+- **Infrastructure as Code (IaC):** Orchestrated cloud resource deployment programmatically via **Terraform**, enforcing declarative configurations, structural validation checks, and tag-based associations.
 
-*   **Perimeter & Network Security:** Provisioned an isolated **DigitalOcean** VPC network and enforced firewall rules to block unauthorized inbound connections and limit outbound egress strictly to DNS, HTTP/S, and NTP boundaries.
+- **Perimeter & Network Security:** Provisioned an isolated **DigitalOcean** VPC network and enforced firewall rules to block unauthorized inbound connections and limit outbound egress strictly to DNS, HTTP/S, and NTP boundaries.
 
-*   **Zero-Trust Secrets Management:** Integrated **Doppler** to inject application secrets and RSA cryptographic credentials directly into container memory at startup, eliminating the need to store plaintext keys or configs on the host disk.
+- **Zero-Trust Secrets Management:** Integrated **Doppler** to inject application secrets and RSA cryptographic credentials directly into container memory at startup, eliminating the need to store plaintext keys or configs on the host disk.
 
-*   **Container Hardening & Least Privilege:** Engineered **multi-stage Docker builds** to minimize runtime surface areas, executing services under a low-privilege system user while restricting database and telemetry port bindings to prevent public exposure.
+- **Container Hardening & Least Privilege:** Engineered **multi-stage Docker builds** to minimize runtime surface areas, executing services under a low-privilege system user while restricting database and telemetry port bindings to prevent public exposure.
 
-*   **Observability Pipeline:** Configured a local **Grafana Alloy** telemetry collector to scrape application-level Prometheus metrics (API latency histograms, inventory levels, PnL) and remote-write them directly to Grafana Cloud.
+- **Observability Pipeline:** Configured a local **Grafana Alloy** telemetry collector to scrape application-level Prometheus metrics (API latency histograms, inventory levels, PnL) and remote-write them directly to Grafana Cloud.
 
-*   **Automated GitOps Pipeline:** Programmed a **GitHub Actions** workflow executing automated testing with coverage metrics, terraform validation, security scanning, image publication to GitHub Container Registry (GHCR), and SSH-based remote deployments.
+- **Automated GitOps Pipeline:** Programmed a **GitHub Actions** workflow executing automated testing with coverage metrics, terraform validation, security scanning, image publication to GitHub Container Registry (GHCR), and SSH-based remote deployments.
 
-*   **Disaster Recovery & Redundancy:** Authored a POSIX-compliant PostgreSQL backup script featuring transaction-consistent dumps and archive verification, coupled with automated daily **DigitalOcean** snapshot backups for full-host recovery.
+- **Disaster Recovery & Redundancy:** Authored a POSIX-compliant PostgreSQL backup script featuring transaction-consistent dumps and archive verification, coupled with automated daily **DigitalOcean** snapshot backups for full-host recovery.
   
 **Stack:** DigitalOcean, Terraform, Docker/Compose, GitHub Actions, Grafana Alloy, Doppler Secrets Manager, PostgreSQL, Python.
 
