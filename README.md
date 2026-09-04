@@ -39,7 +39,7 @@ A production-grade event-driven algorithmic trading bot, designed to serve as a 
     <tr>
       <th align="left" valign="top" width="16.6%">Languages</th>
       <th align="left" valign="top" width="16.6%">Cloud Platforms</th>
-      <th align="left" valign="top" width="16.6%">CI/CD & Infra</th>
+      <th align="left" valign="top" width="16.6%">CI/CD & Infrastructure</th>
       <th align="left" valign="top" width="16.6%">Data Systems</th>
       <th align="left" valign="top" width="16.6%">Observability & Security</th>
       <th align="left" valign="top" width="16.6%">AI Tooling</th>
@@ -56,17 +56,16 @@ A production-grade event-driven algorithmic trading bot, designed to serve as a 
         Kotlin
       </td>
       <td valign="top">
-        AWS (EKS, ECS, EC2, S3)<br/>
-        GCP (GKE, GCE, GCS)<br/>
+        AWS (ECS, EC2, S3)<br/>
+        GCP (GCE, GCS)<br/>
         DigitalOcean
       </td>
       <td valign="top">
-        Kubernetes<br/>
-        Helm<br/>
+        Kubernetes (GKE, EKS)<br/>
+        Docker<br/>
         Argo CD<br/>
         Terraform<br/>
         Atlantis<br/>
-        Docker<br/>
         GitHub Actions<br/>
         CircleCI<br/>
         Buildkite<br/>
